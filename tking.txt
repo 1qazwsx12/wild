@@ -1,0 +1,2409 @@
+
+<title>CLEAR CACHE FIRST TO VIEW UPDATED LIST</title>
+<link>plug:</link>
+<thumbnail></thumbnail>
+</item>
+
+
+http://wms.myliveafricatv.com:1935/html5_mlalive/326/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTMyNiZjTmFtZT1VVFYxOTYlMjBMSVZFJTIwRlJPTSUyMEdIQU5BJm9JRD0xMDAwMSZvTmFtZT1teWxpdmVhZnJpY2F0dl9ibGVzc2VkJnNJZD0xYWI1Z2RnOWZsMnR1NWgzaTR2ZnI1ZXA1NSZ1SUQ9MjY5MTYmdU5hbWU9cXVhbnNhaG0=&id=9085xkgOo1voQzfqAHDc
+
+http://wms.myliveafricatv.com:1935/html5_mlalive/326/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTMyNiZjTmFtZT1VVFYxOTYlMjBMSVZFJTIwRlJPTSUyMEdIQU5BJm9JRD0xMDAwMSZvTmFtZT1teWxpdmVhZnJpY2F0dl9ibGVzc2VkJnNJZD0xYWI1Z2RnOWZsMnR1NWgzaTR2ZnI1ZXA1NSZ1SUQ9MjY5MTYmdU5hbWU9cXVhbnNhaG0=&id=Wx-y6eqMVelvT8kFAHDZ
+
+YXBwTmFtZT1QbGF5ZXImY0lEPTMyNiZjTmFtZT1VVFYxOTYlMjBMSVZFJTIwRlJPTSUyMEdIQU5BJm9JRD0xMDAwMSZvTmFtZT1teWxpdmVhZnJpY2F0dl9ibGVzc2VkJnNJZD0xYWI1Z2RnOWZsMnR1NWgzaTR2ZnI1ZXA1NSZ1SUQ9MjY5MTYmdU5hbWU9cXVhbnNhaG0
+YXBwTmFtZT1QbGF5ZXImY0lEPTMyNiZjTmFtZT1VVFYxOTYlMjBMSVZFJTIwRlJPTSUyMEdIQU5BJm9JRD0xMDAwMSZvTmFtZT1teWxpdmVhZnJpY2F0dl9ibGVzc2VkJnNJZD0xYWI1Z2RnOWZsMnR1NWgzaTR2ZnI1ZXA1NSZ1SUQ9MjY5MTYmdU5hbWU9cXVhbnNhaG0
+YXBwTmFtZT1QbGF5ZXImY0lEPTQxNSZjTmFtZT1BVElOS0ElMjBUViZvSUQ9MTAwMDEmb05hbWU9bXlsaXZlYWZyaWNhdHZfYmxlc3NlZCZzSWQ9
+
+http://wms.myliveafricatv.com:1935/html5_mlalive/186/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTE4NiZjTmFtZT1UVjM0MSZvSUQ9MTAwMDEmb05hbWU9bXlsaXZlYWZyaWNhdHZfYmxlc3NlZCZzSWQ9N25xNHV2Zm5zaHUyb3Q1YnIwbGJnNG43bzAmdUlEPTI2OTE2JnVOYW1lPXF1YW5zYWht&id=LowqQ4a7J19FeytqAA9r
+
+<item>
+<title>GHone TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/369/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2OSZjTmFtZT1HSCUyME9ORSUyMDQxJm9JRD0xMDAwMSZvTmFtZT1teWxpdmVhZnJpY2F0dl9ibGVzc2VkJnNJZD03bnE0[get-clean-SessID]BsYmc0bjdvMCZ1SUQ9MjY5MTYmdU5hb==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=369&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=369&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/channel/cineplus41-live-from-ghana-please-ignore-date</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/369-320x180-000000.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>OBONU TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/320/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTMyMCZjTmFtZT1PQk9OVVRWMTk2JTIwTElWRSUyMEZST00lMjBHSEFOQSUyMFBMRUFTRSUyMElHTk9SRSUyMERB$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=320&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=320&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=obonutv196-live-from-ghana-please-ignore-date</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://weviewtv.com/include/common/images/obonu_tv29.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>ROYAL TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/375/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM3NSZjTmFtZT1ST1lBTCUyMFRWJTIwNDEmb0lEPTEwMDAxJm9OYW1lPW15bGl2ZWFmcmljYXR2X2JsZXNzZWQm$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=375&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=375&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/royal-tv-41</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://weviewtv.com/include/common/images/royaltv_kumasi.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>HOMEBASE TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/374/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM3NCZjTmFtZT1IT01FQkFTRVRWMTk2JTIwTElWRSUyMEZST00lMjBHSEFOQSZvSUQ9MTAwMDEmb05hbWU9bXls$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=374&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=374&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/homebasetv196-live-from-ghana</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/374-160x120-C7C7C7.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>ADOM TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/184/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTE4NCZjTmFtZT1BRE9NMTk2JTIwTElWRSUyMEZST00lMjBHSEFOQSUyMFImb0lEPTEwMDAxJm9OYW1lPW15bGl2$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=184&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=184&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/adom196-live-from-ghana-rtv3</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://cdn.afromotion.tv/uploads/thumbs/cache/beebdd08d0f8b25efaa4a4ba6b2609de973c27d6300.png</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title>ADOMmm TV</title>
+$doregex[get_sxstream]|User-Agent=iPhone&mode=17&regexs={u'get_sxstream': {'expres': u'src=.*[",\'](.*m3u8.*?)[",\']'
+
+
+<item>
+<title>ADOM TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/365/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2NSZjTmFtZT1LRVNTQkVOVFY0MSZvSUQ9MTAwMDEmb05hbWU9bXlsaXZlYWZyaWNhdHZfYmxlc3NlZCZzSWQ9$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=365&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=365&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/kessbentv41</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://cdn.afromotion.tv/uploads/thumbs/cache/beebdd08d0f8b25efaa4a4ba6b2609de973c27d6300.png</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+rtmp://cdn.ghanatvon.com/live/<playpath>TV3GHe=1469093165&st=6xRyRRtJKsDLqbS-y7k3QwcE85qjt0-JVUgLYB25fJlw <swfUrl>http://tv.filmover.com/jwp6k/jwplayer.flash.swf <pageUrl>http://www.ghanatvon.com/tv3-ghana-live.html <objectEncoding>
+rtmp://cdn.ghanatvon.com/liveUTV/<playpath>UTVe=1472638242&st=sbpeXD53MVQdrohFhgofAIsUiqu0JhW1wC4dz7yD_w <swfUrl>http://tv.filmover.com/jwp6k/jwplayer.flash.swf <pageUrl>http://www.ghanatvon.com/utv-ghana.html <objectEncoding>
+http://213.246.39.124:8081/live/tv3/playlist.m3u8
+
+
+<title>TV3</title>
+<link>http://213.246.39.124:8081/live/tv3/playlist.m3u8</link>
+<thumbnail>http://www.ghanatvlive.net/images/tv3.gif</thumbnail>
+</item>
+
+
+
+<item>
+<title>TV3</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/186/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTE4NiZjTmFtZT1UVjM0MSZvSUQ9MTAwMDEmb05hbWU9bXlsaXZlYWZyaWNhdHZfYmxlc3NlZCZzSWQ9N25xNHV2Zm5zaHUy[get-clean-SessID]AmdUlEPTI2OTE2JnVOYW1lPXF1YW5zY==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=186&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=186&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/channel/adom41-live-from-ghana-please-ignore-date-below</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://www.ghanatvlive.net/images/tv3.gif</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+<title>TV3</title>
+<link>$doregex[getRTMP] app=live/ playpath=$doregex[getPATH] swfUrl=http://tv.filmover.com/jwp6k/jwplayer.flash.swf pageUrl=http://tv.mmorpgwarcraft.com/iptv/tv3.php live=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>file: '(.*?)TV3GHe</expres>
+<page>http://www.ghanatvon.com/tv3-ghana-live.html</page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>getPATH</name>
+<expres>(TV3GHe=.*?)'</expres>
+<page>http://www.ghanatvon.com/tv3-ghana-live.html</page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.ghanatvlive.net/images/tv3.gif</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>KATANKA TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/358/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM1OCZjTmFtZT1LYW50YW5rYVRWMTk2Jm9JRD0xMDAwMSZvTmFtZT1teWxpdmVhZnJpY2F0dl9ibGVzc2VkJnNJ$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=358&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=358&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/kantankatv196</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://www.sat-address.com/f/pics/logotipi/Kantanka-TV-Ghana_o.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>GTV TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/307/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTMwNyZjTmFtZT1HVFYxOTYlMjBMSVZFJTIwRlJPTSUyMEdIQU5BJTIwUExFQVNFJTIwSUdOT1JFJTIwREFURSUy$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=307&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=307&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/gtv196-live-from-ghana-please-ignore-date-below-am</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/307-160x120-C7C7C7.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>JOY NEWS</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/338/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTMzOCZjTmFtZT1KT1lORVdTNDElMjBMSVZFJTIwRlJPTSUyMEdIQU5BJTIwUExFQVNFJTIwSUdOT1JFJTIwREFU$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=338&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=338&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/joynews41-live-from-ghana-please-ignore-date-below</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/338-160x120-C7C7C7.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>JOY PRIME</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/329/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTMyOSZjTmFtZT1KT1lQUklNRVRWMTk2JTIwTElWRSUyMEZST00lMjBHSEFOQSUyMFBMRUFTRSUyMElHTk9SRSZv$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=329&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=329&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/joyprimetv196-live-from-ghana-please-ignore</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://weviewtv.com/include/common/images/joy_prime_tv.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>UTV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/326/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTMyNiZjTmFtZT1VVFYxOTYlMjBMSVZFJTIwRlJPTSUyMEdIQU5BJm9JRD0xMDAwMSZvTmFtZT1teWxpdmVhZnJp$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+
+<page>http://myliveafricatv.com:8080/socket.io/?c=326&amp;n=WEBSESSID&amp;i=okbeanarpdbemb2d0m965an405&amp;EIO=3&amp;transport=polling&amp;t=MRc7kVx</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=326&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/metrotv196-live--please-ignore-date-below-akwa</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://weviewtv.com/include/common/images/utv_ch14.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title>CINE PLUS</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/369/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2OSZjTmFtZT1DaW5lUGx1czQxJTIwTElWRSUyMEZST00lMjBHSEFOQSUyMFBMRUFTRSUyMElHTk9SRSUyMERB$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=369&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=369&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/cineplus41-live-from-ghana-please-ignore-date</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/369-160x120-C7C7C7.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>KESSBEN TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/330/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTMzMCZjTmFtZT1HVFYyNCUyMDQxJTIwTElWRSUyMEZST00lMjBHSEFOQSUyMFBMRUFTRSUyMElHTk9SRSUyMERB$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=330&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=330&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/gtv24-41-live-from-ghana-please-ignore-date-below</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://weviewtv.com/include/common/images/kessbentv_ch11.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+
+<title>KESSBEN TV</title>
+<link>rtmp://41.66.252.206/livepkgr/ playpath=livestream?adbe-live-event=liveevent swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://kessbentv.com/live/ live=1 timeout=15</link>
+<thumbnail>http://weviewtv.com/include/common/images/kessbentv_ch11.jpg</thumbnail>
+</item>
+
+<item>
+<title>ADOM TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/365/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM2NSZjTmFtZT1LRVNTQkVOVFY0MSZvSUQ9MTAwMDEmb05hbWU9bXlsaXZlYWZyaWNhdHZfYmxlc3NlZCZzSWQ9$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=365&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=365&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/kessbentv41</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://cdn.afromotion.tv/uploads/thumbs/cache/beebdd08d0f8b25efaa4a4ba6b2609de973c27d6300.png</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+<title>GBC 24</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/330/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTMzMCZjTmFtZT1HVFYyNCUyMDQxJTIwTElWRSUyMEZST00lMjBHSEFOQSUyMFBMRUFTRSUyMElHTk9SRSUyMERB$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=330&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=330&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/gtv24-41-live-from-ghana-please-ignore-date-below</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://weviewtv.com/include/common/images/gbc24_logo.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+<item>
+<title>GTV SPORTS +</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/185/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTE4NSZjTmFtZT1HVFZTUE9SVFMlMjBQTFVTMTk2JTIwTElWRSUyMEZST00lMjBHSEFOQSUyMFBMRUFTRSUyMElH$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=185&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=185&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/gtvsports-plus196-live-from-ghana-please-ignore</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://www.iafrica.tv/wp-content/uploads/2016/05/gtv_sports-150.png</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>AL JAZEERA</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/222/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTIyMiZjTmFtZT1HVFZHT1YxOTYlMjBQTEVBU0UlMjBJR05PUkUlMjBEQVRFJTIwJTIwSVQlMjBJUyUyMExJVkUl$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=222&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=222&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/gtvgov196-please-ignore-date--it-is-live-channel</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>https://www.thelogodb.com/images/media/logo/qwqyvp1433427528.png</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>ATINKA TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/331/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTMyNiZjTmFtZT1VVFYxOTYlMjBMSVZFJTIwRlJPTSUyMEdIQU5BJm9JRD0xMDAwMSZvTmFtZT1teWxpdmVhZnJp$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=331&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=331&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/4sytetv196-live-from-ghana-please-ignore-date</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/415-160x120-C7C7C7.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>ASEDA TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/344/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM0NCZjTmFtZT1BU0FFREFUVjQxJTIwQUZSSUNBNDElMjAlMjBMSVZFJTIwRlJPTSUyMEdIQU5BJTIwUExFQVNF$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=344&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=344&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/asaedatv41-africa41--live-from-ghana-please-ignore</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://weviewtv.com/include/common/images/aseda_tv_kumasi.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>GTC GOVERN</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/408/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQwOCZjTmFtZT1BR09PVFYxOTYmb0lEPTEwMDAxJm9OYW1lPW15bGl2ZWFmcmljYXR2X2JsZXNzZWQmc0lkPTFh$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=408&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=408&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/channel/agootv196</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://pbs.twimg.com/profile_images/476078373689516033/oaq14cTE_400x400.jpeg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+http://maxtvgh.com/img/maxtv_logo.png
+<item>
+<title>PAN AFRICAN TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/402/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQwMiZjTmFtZT1PQklDRVRWNDEmb0lEPTEwMDAxJm9OYW1lPW15bGl2ZWFmcmljYXR2X2JsZXNzZWQmc0lkPTFh$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=402&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=402&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/channel/obicetc41</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://panafricantvonline.com/wp-content/uploads/2017/06/Untitled-1-300x147.png</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+<item>
+<title>STUDIO ONE</title> 
+<link>$doregex[CleanM3U8]|Cookie=$get_cookies$&amp;Referer=http://www.tikilive.com/public/player/player.flash.swf</link>
+<regex>
+<name>CleanM3U8</name>
+<expres>$pyFunction:'$doregex[getM3U8]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>"hls": "(.*?)"</expres>
+<page>http://www.tikilive.com/services/schedule/schedule.php?method=GET&amp;path=channels/52392&_x=</page>
+<referer>http://www.tikilive.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+<thumbnail>http://cdn.modernghana.com/tv_logo/banner.jpg</thumbnail>
+</regex>
+</item>
+
+
+
+<title>STUDIO ONE TV</title>
+<link>$doregex[getRTMP] app=rtmp_tikilive/52392?id=$doregex[getSID]&amp;i=$doregex[getI] playpath=mainstream swfUrl=http://www.tikilive.com/public/player/player.flash.swf pageUrl=http://www.tikilive.com/embed?scheme=embedChannel&channelId=42728 live=1</link>
+<regex>
+<name>getRTMP</name>
+<expres>"rtmp":"(.*?)\?</expres>
+<page>http://cache.tikilive.com:8080/socket.io/?c=52392&amp;n=TIKISESSID&amp;i=$doregex[getKeyID]&amp;EIO=3&amp;transport=polling&amp;t=1473332760589-2&amp;sid=$doregex[getSID]</page>
+<referer>http://www.tikilive.com/embed?scheme=embedChannel&channelId=52392</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getSID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://cache.tikilive.com:8080/socket.io/?c=52392&amp;n=TIKISESSID&amp;i=$doregex[getKeyID]&amp;EIO=3&amp;transport=polling&amp;t=1473332760589-2</page>
+<referer>http://www.tikilive.com/embed?scheme=embedChannel&channelId=52392</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getI</name>
+<expres>token#&amp;i=(.*?)\/mainstream</expres>
+<page>http://cache.tikilive.com:8080/socket.io/?c=52392&amp;n=TIKISESSID&amp;i=$doregex[getKeyID]&amp;EIO=3&amp;transport=polling&amp;t=1473332760589-2&amp;sid=$doregex[getSID]</page>
+<referer>$doregex[getPage]</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getKeyID</name>
+<expres>keyId: '(.*?)'</expres>
+<page>$doregex[getPage]</page>
+<referer>http://www.tikilive.com/embed?scheme=embedChannel&channelId=52392</referer>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getPage</name>
+<expres>"\s.* src="(.*?)"</expres>
+<page>http://www.tikilive.com/embed?scheme=embedChannel&amp;channelId=52392</page>
+<agent>Mozilla/5.0 (Linux; Android 4.1.1; Nexus 7 Build/JRO03D) AppleWebKit/535.19 (KHTML, like Gecko) Chrome/18.0.1025.166 Safari/535.19</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://cdn.modernghana.com/tv_logo/banner.jpg</thumbnail>
+</regex>
+</item>
+
+
+<title>KLICK AFRICA</title> 
+<link>$doregex[CleanM3U8]|Cookie=$get_cookies$&amp;Referer=http://www.tikilive.com/public/player/player.flash.swf</link>
+<regex>
+<name>CleanM3U8</name>
+<expres>$pyFunction:'$doregex[getM3U8]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>"hls": "(.*?)"</expres>
+<page>http://www.tikilive.com/services/schedule/schedule.php?method=GET&amp;path=channels/41683&_x=</page>
+<referer>http://www.tikilive.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+<thumbnail>http://cdn.modernghana.com/tv_logo/klikafrica.png</thumbnail>
+</regex>
+</item>
+
+
+
+
+
+
+<title>AFRO GOSPEL TV</title> 
+<link>$doregex[CleanM3U8]|Cookie=$get_cookies$&amp;Referer=http://www.tikilive.com/public/player/player.flash.swf</link>
+<regex>
+<name>CleanM3U8</name>
+<expres>$pyFunction:'$doregex[getM3U8]'.replace('\/','/')</expres>
+<page></page>
+</regex>
+<regex>
+<name>getM3U8</name>
+<expres>"hls": "(.*?)"</expres>
+<page>http://www.tikilive.com/services/schedule/schedule.php?method=GET&amp;path=channels/42729&_x=</page>
+<referer>http://www.tikilive.com/</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:44.0) Gecko/20100101 Firefox/44.0</agent>
+<X-Req>XMLHttpRequest</X-Req>
+<cookieJar></cookieJar>
+<thumbnail>http://cdn.modernghana.com/tv_logo/1422490110296955071456008693294039795716142n.jpg</thumbnail>
+</regex>
+</item>
+
+
+
+
+
+
+
+
+
+<item>
+  <title>HEALING JESUS TV</title>
+  <link>$doregex[getstream]|User-Agent=iPhone</link>
+  <regex>
+    <name>getstream</name>
+    <expres>smil[",\']\W[",\']m3u8_url.+?([^\"]+)[",\']\W</expres>
+    <page>http://livestream.com/accounts/15754877/events/4470314/</page>
+    <referer>http://livestream.com/</referer>
+    <agent>Mozilla/5.0</agent>
+    <cookieJar></cookieJar>
+  </regex>
+  <thumbnail>http://www.healingjesus.tv/onDemand/oD_ourpreachers/5_dhm.png</thumbnail>
+</item>
+
+<item>
+<title>PENT TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/340/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTM0MCZjTmFtZT1QRU5URUNPU1QlMjBUVjQxJTIwTElWRSUyMEZST00lMjBHSEFOQSZvSUQ9MTAwMDEmb05hbWU9$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=340&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=340&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/show/pentv41-live-from-ghana-robt</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/340-160x120-C7C7C7.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+
+http://wms.myliveafricatv.com:1935/html5_mlalive/418/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQxOCZjTmFtZT1JQ0U0MSZvSUQ9MTAwMDEmb05hbWU9bXlsaXZlYWZyaWNhdHZfYmxlc3NlZCZzSWQ9N25xNHV2Zm5zaHUyb3Q1YnIwbGJnNG43bzAmdUlEPTI2OTE2JnVOYW1lPXF1YW5zYWht&id=10r0nUzMWJwz5SfJAA4m
+
+
+<item>
+<title>ELIJAH TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/418/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQxOCZjTmFtZT1JQ0U0MSZvSUQ9MTAwMDEmb05hbWU9bXlsaXZlYWZyaWNhdHZfYmxlc3NlZCZzSWQ9N25xNHV2Zm5zaHUy[get-clean-SessID]AmdUlEPTI2OTE2JnVOYW1lPXF1YW5zY==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=418&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=418&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/channel/obicetc41</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/418-320x180-000000.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+
+
+<item>
+<title>OBTV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/424/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQxOCZjTmFtZT1JQ0U0MSZvSUQ9MTAwMDEmb05hbWU9bXlsaXZlYWZyaWNhdHZfYmxlc3NlZCZzSWQ9N25xNHV2Zm5zaHUy[get-clean-SessID]AmdUlEPTI2OTE2JnVOYW1lPXF1YW5zY==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=424&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=424&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/channel/obicetc41</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>https://scontent.flhr4-2.fna.fbcdn.net/v/t1.0-0/cp0/e15/q65/p64x64/11016785_1543776012570960_8400650238198999587_n.jpg?_nc_cat=104&_nc_ht=scontent.flhr4-2.fna&oh=4187dc3ad5c8005cf5d9c017726c4f6e&oe=5C7EAF59</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+tem>
+<title>DOMINION TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/418/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQxOCZjTmFtZT1JQ0U0MSZvSUQ9MTAwMDEmb05hbWU9bXlsaXZlYWZyaWNhdHZfYmxlc3NlZCZzSWQ9N25xNHV2Zm5zaHUy[get-clean-SessID]AmdUlEPTI2OTE2JnVOYW1lPXF1YW5zY==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=418&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=418&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/channel/obicetc41</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>Login</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/ajax/?jsoncallback=jQuery19003166088350279528_$epoctime$&amp;m=login&amp;user_username=quansahm&amp;user_password=Qazwsx12@&amp;stay_logged_in=false&amp;signin=Login&amp;_=$epoctime$</page>
+<referer>http://www.myliveafricatv.com</referer>
+<x-req>XMLHttpRequest</x-req>
+<cookieJar></cookieJar>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/418-320x180-000000.jpg</thumbnail>
+</regex>
+<regex>
+<name>Logout</name>
+<expres></expres>
+<page>http://www.myliveafricatv.com/logout</page>
+<referer>http://www.myliveafricatv.com</referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+<item>
+<title>RESURRECTION TV</title>
+<link>http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/playlist.m3u8</link>
+<thumbnail>http://live-tv-channels.net/pt-data/uploads/logo/gh-resurrection-tv.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>MOGPA TV</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  return re.findall('mp4":"(h.*?)"',requests.get('http://mogpa.org/mogpa-tv/').content)[0].replace('\\','')+'|User-Agent=iPad&Referer=http://mogpa.org/mogpa-tv/'
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://lh3.ggpht.com/0Jx4tLLHQEQUs51ds1EHa6LtViHIci5OV_YZEFyq7YJfyV0yEo0wuwHb-OtR_KfIZyA=w300</thumbnail>
+</item>
+
+
+
+
+<title>MOGPA TV</title>
+<link>$doregex[GetUrl]</link>
+<regex>
+<name>GetUrl</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url = 'http://mogpa.org/mogpa-tv/'):
+ import requests, re
+ ua = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36'
+ headers = {'User-Agent': ua, 'Accept': 'application/vnd.apple.mpegurl, text/javascript, */*; q=0.01', 'Connection': 'keep-alive'}
+ source = requests.get(url, headers = headers).text
+ return re.findall('file: "(.*?)"', source)[0].replace('\/','/')
+]]></expres>
+<page></page>
+</regex>
+<thumbnail>http://lh3.ggpht.com/0Jx4tLLHQEQUs51ds1EHa6LtViHIci5OV_YZEFyq7YJfyV0yEo0wuwHb-OtR_KfIZyA=w300</thumbnail>
+</item>
+
+
+
+<title>ATINKA TV</title>
+<link>http://wms.myliveafricatv.com:1935/html5_mlalive/415/amlst:mainstream/playlist.m3u8?i=YXBwTmFtZT1QbGF5ZXImY0lEPTQxNSZjTmFtZT1BVElOS0ElMjBUViZvSUQ9MTAwMDEmb05hbWU9bXlsaXZlYWZyaWNhdHZfYmxlc3NlZCZzSWQ9$doregex[get-clean-SessID]mdUlEPTAmdU5hbWU9R3Vlc3RjOTNmNA==&amp;id=$doregex[getID]</link>
+<regex>
+<name>get-clean-SessID</name>
+<expres>$pyFunction:'$doregex[getEncLink]'.replace('=','')</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>getEncLink</name>
+<expres>$pyFunction:base64.b64encode("$doregex[get-SessID]")</expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-SessID</name>
+<expres>WEBSESSID=(.*?);</expres>
+<page>http://www.myliveafricatv.com/</page>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<noredirect>true</noredirect>
+<includeheaders/>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>getID</name>
+<expres>sid":"(.*?)"</expres>
+<page>http://myliveafricatv.com:8080/socket.io/?c=415&amp;n=WEBSESSID&amp;i=$doregex[get-SessID]&amp;EIO=3&amp;transport=polling&amp;t=</page>
+<referer>http://www.myliveafricatv.com/embed?scheme=embedChannel&channelId=415&autoplay=yes&showChat=yes&chat-theme=dark&close-chat=yes&parent_url=www.myliveafricatv.com/channel/atinka-tv</referer>
+<agent>Mozilla/5.0 (Windows NT 6.3; WOW64; rv:45.0) Gecko/20100101 Firefox/45.0</agent>
+<cookieJar></cookieJar>
+<thumbnail>http://www.myliveafricatv.com/public/files/shows/10/10001/415-160x120-C7C7C7.jpg</thumbnail>
+
+</regex>
+</item>
+<title>PENTECOST</title>
+<link>$doregex[rtmpurl] playpath=mainstream live=1 timeout=15</link>
+<regex>
+<name>rtmpurl</name>
+<expres><![CDATA[#$pyFunction
+import xbmc
+from threading import Thread
+
+def ping_function(arg):    
+    for i in range(5):
+        arg.send("2:::")
+        xbmc.sleep(2000)
+        
+def GetLSProData(page_data,Cookie_Jar,m):
+    import re, requests, time
+    agent = 'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1'
+    keyid = re.findall("keyId: '(.*?)'", page_data)[0]
+    cid = re.findall("channelId: '(.*?)'", page_data)[0]
+    epoctime = str(int(time.time()*1000))
+    url = 'http://myliveafricatv.com:8080/socket.io/1/?c=%s&n=WEBSESSID&i=%s&t=%s'%(cid,keyid,epoctime)
+    headers = {'Referer': 'http://www.myliveafricatv.com/',
+                'User-Agent': agent,
+                'Origin': 'http://www.myliveafricatv.com'}
+    ttext = requests.get(url, headers = headers, cookies=Cookie_Jar).text
+    token = re.findall('(.*?):60:', ttext)[0]
+
+    import websocket
+    ws = websocket.WebSocket()
+    header=["Origin: http://www.myliveafricatv.com","User-Agent: %s"%agent,"Cookie: WEBSESSID=%s"%keyid]
+    url = 'ws://myliveafricatv.com:8080/socket.io/1/websocket/%s?c=%s&n=WEBSESSID&i=%s'%(token,cid,keyid)
+    ws.connect(url,header=header)
+    result=""
+    tries=0
+    while (not "YOU NEED" in result) and tries<10:
+        tries+=1;
+        result = ws.recv()   
+
+    thread = Thread(target = ping_function, args = (ws, ))
+    thread.start()
+    swfUrl = 'http://www.myliveafricatv.com/public/flash/player/wms/viewerModules/player/PlayerModule.swf?version=2.11.9'
+    pageUrl = 'http://www.myliveafricatv.com'
+    final = 'rtmp://wms.myliveafricatv.com:1935/rtmp_mlalive/%s/ app=rtmp_mlalive/%s/ conn=O:1 conn=NS:id:%s conn=O:0 swfUrl=%s pageUrl=%s'%(cid,cid,token,swfUrl,pageUrl)
+    return final
+]]></expres>
+<page>http://www.myliveafricatv.com/show/pentecost-austin-sunday-sermon--2016</page>
+<cookieJar></cookieJar>
+<referer>http://www.myliveafricatv.com</referer>
+</regex>
+</item>
+
+<item>
+<title>AYV HD</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres>hls":\s*"([^"]+)</expres>
+<page>https://nadaje.com/api/1.0/services/video/3601/</page>
+</regex>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcTVpb7UtQ7x_eU7cYqVwRHkfQPCXP6QDluciTa88022DddeCRe-annLZw</thumbnail>
+</item>
+
+
+
+<item>
+<title>AYV TV</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  source=requests.get('https://nadaje.com/api/1.0/services/video/3601/',headers={'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0','Referer':'http://cdn.nadaje.com/static/players/3601/clappr.html', 'Accept': 'application/json, text/javascript, */*; q=0.01'}).text
+  return re.findall('"hls": "(.*?)"',source)[0]+'|User-Agent=iPad&Referer=https://nadaje.com/api/1.0/services/video/3601/'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://t0.gstatic.com/images?q=tbn:ANd9GcTVpb7UtQ7x_eU7cYqVwRHkfQPCXP6QDluciTa88022DddeCRe-annLZw</thumbnail>
+</item>
+
+
+<item>
+<title>CITIZEN TV</title>
+<link>$doregex[getUrl]</link>
+<regex>
+<name>getUrl</name>
+<expres><![CDATA[#$pyFunction
+import re,requests
+def GetLSProData(page_data,Cookie_Jar,m):
+  source=requests.get('https://api-eu1.revlet.net/service/api/v1/embed/page/stream?path=channel/live/citizen-tv&tenant_code=royalmedia',headers={'User-Agent':'Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:58.0) Gecko/20100101 Firefox/58.0','Referer':'https://citizen1.viusasa.com/embed.html?channel=citizen-tv&autoplay=1', 'Accept': 'application/json, text/javascript, */*; q=0.01'}).text
+  return re.findall('"url":"(.*?)"',source)[0]+'|User-Agent=iPad&Referer=https://api-eu1.revlet.net/service/api/v1/embed/page/stream?path=channel/live/citizen-tv&tenant_code=royalmedia'
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://citizentv.co.ke/tv/wp-content/themes/citizentv/images/logo.png</thumbnail>
+</item>
+
+
+  <title>CITIZEN TV</title>
+  <link>$doregex[getstream]|User-Agent=iPhone</link>
+  <regex>
+    <name>getstream</name>
+    <expres>smil[",\']\W[",\']m3u8_url.+?([^\"]+)[",\']\W</expres>
+    <page>http://livestream.com/accounts/11365479/events/3710862/</page>
+    <referer>http://livestream.com/</referer>
+    <agent>Mozilla/5.0</agent>
+    <cookieJar></cookieJar>
+  </regex>
+  <thumbnail>http://citizentv.co.ke/tv/wp-content/themes/citizentv/images/logo.png</thumbnail>
+</item>
+
+
+<title>AY TVTH</title>
+<link>http://nadaje.delivery.streamroot.io/nadaje5/live/ngrp:stream-1_all/playlist.m3u8?$doregex[getFile]</link>
+<regex>
+<name>getFile</name>
+<expres></expres>
+<page>http://cdn.nadaje.com/static/players/3601/clappr.html</page>
+</regex>
+<thumbnail>http://s21.postimg.org/ddkoi2tuv/fox_sportstv.png</thumbnail>
+</item>
+
+
+
+  <title>AY TV</title>
+  <link>$doregex[getstream]|User-Agent=iPhone</link>
+  <regex>
+    <name>getstream</name>
+    <expres>smil[",\']\W[",\']m3u8_url.+?([^\"]+)[",\']\W</expres>
+    <page>https://cdn.nadaje.com/static/players/3601/clappr.html</page>
+    <referer>http://ayvnews.com/</referer>
+    <agent>Mozilla/5.0</agent>
+    <cookieJar></cookieJar>
+  </regex>
+  <thumbnail>http://citizentv.co.ke/tv/wp-content/themes/citizentv/images/logo.png</thumbnail>
+</item>
+
+
+
+<title>HJTV- LIGHTHOUSE CH/</title> 
+<link>$doregex[get-url]</link> 
+
+<regex>
+<name>get-url</name>
+<expres><![CDATA[#$pyFunction
+
+def GetLSProData(page_data,Cookie_Jar,m):
+ import requests
+ import re
+ import urllib2
+ url ='http://livestream.com/accounts/15754877/events/4470314'
+ source = requests.get(url)
+ url = re.findall('m3u8_url":"(https.*?hmac=.*?.*?)"', source.text)[-1]
+ auth = re.findall('(&hdnea.*)', url)[0]
+ print auth
+
+ class NoRedirection(urllib2.HTTPErrorProcessor):
+   def http_response(self, request, response):
+     return response
+   https_response = http_response
+
+ opener = urllib2.build_opener(NoRedirection)
+ location = opener.open(url).info().getheader('Location')
+ location = location.replace('&__a__=off', '')
+ source = requests.get(location)
+ m3u8 = re.findall('RESOLUTION=856x480.*?\n(.*)', source.text)[0]
+ m3u8final = m3u8 + auth
+ return m3u8final
+
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>http://www.healingjesus.tv/images/hjtv2_tmp_r3_c1.jpg</thumbnail>
+</item>
+
+
+<title> IPTV Makelist</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param1]</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;name=[makelist.param1]&amp;url=$doregex[encodedurl]</link>
+<thumbnail>NA</thumbnail>
+]]></listrepeat>
+<expres>#EXTINF:-1.*,(.*?)\n.*(http.*m3u8)</expres>
+<page>http://myiptvurl.com/get.php?username=myusn&amp;password=mypass&amp;type=m3u&amp;output=hls</page>
+<referer>http://myiptvurl.com/live/myusn/mypass</referer>
+<x-forward></x-forward>
+<agent>VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1</agent>
+</regex>
+<regex>
+<name>encodedurl</name>
+<expres>$pyFunction:urllib.quote_plus('[makelist.param2]|User-Agent=VLC/2.2.1 LibVLC/2.2.17&Icy-MetaData=1')<expres>
+<page></page>
+</regex>
+</item>
+
+<title>IGBORO TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres><![CDATA[#$pyFunction
+def getCookiesString(cookieJar):
+    try:
+        cookieString=""
+        for index, cookie in enumerate(cookieJar):
+            cookieString+=cookie.name + "=" + cookie.value +";"
+    except: pass
+    #print 'cookieString',cookieString
+    return cookieString
+
+def f4mcallback(param, type, error, Cookie_Jar, url, headers):
+  if type==1:
+    newurl=getUrl(param,Cookie_Jar)
+    oldservername=url.split('/')[2]
+    newserver=newurl.split('/')
+    newserver[2]=oldservername
+    newurl='/'.join(newserver)
+    return newurl,Cookie_Jar
+  else:
+    return '',None
+
+def getUrl(param, Cookie_Jar):
+  import requests, re, urllib, inspect
+  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
+  url = 'http://www.filmon.com/tv/channel/export?channel_id='+param
+  session = requests.session()
+  session.cookies = Cookie_Jar
+  source= session.get(url, headers = headers)
+  swf = re.findall('streamer":"(.*?)"', source.text)[0]
+  cleanswf = swf.replace('\\/','/')
+  referer = 'http://www.filmon.com' + cleanswf
+  refpage = 'https://www.filmon.com/'
+  page = requests.get(refpage)
+  headers1 = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0', 'Referer': refpage, 'X-Requested-With': 'XMLHttpRequest', 'Cookie': str(page.cookies)}
+  params = {'channel_id': param, 'quality': 'high'}
+  url2 = 'https://www.filmon.com/ajax/getChannelInfo'
+  source1 = requests.post(url2, params=params, headers=headers1).text
+  return re.findall('"high","url":"([^"]+)"', source1)[0].replace('\/', '/')
+ 
+def GetLSProData(page_data,Cookie_Jar,m):
+  import os,urllib
+  callbackfunction=os.path.realpath(__file__)
+  callbackparam='3449'
+  url=getUrl('3449',Cookie_Jar)
+  referer = 'http://www.filmon.com/'
+  print 'url',url
+  return urllib.quote_plus (url + '|Referer=' + referer+'&cookie='+getCookiesString(Cookie_Jar)+'&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36') +'&callbackpath='+urllib.quote_plus(callbackfunction)+'&callbackparam='+urllib.quote_plus(callbackparam)
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/3449/big_logo.png</thumbnail>
+</item>
+
+
+
+<title>BLAZE CHANNEL</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres><![CDATA[#$pyFunction
+def getCookiesString(cookieJar):
+    try:
+        cookieString=""
+        for index, cookie in enumerate(cookieJar):
+            cookieString+=cookie.name + "=" + cookie.value +";"
+    except: pass
+    #print 'cookieString',cookieString
+    return cookieString
+
+def f4mcallback(param, type, error, Cookie_Jar, url, headers):
+  if type==1:
+    newurl=getUrl(param,Cookie_Jar)
+    oldservername=url.split('/')[2]
+    newserver=newurl.split('/')
+    newserver[2]=oldservername
+    newurl='/'.join(newserver)
+    return newurl,Cookie_Jar
+  else:
+    return '',None
+
+def getUrl(param, Cookie_Jar):
+  import requests, re, urllib, inspect
+  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
+  url = 'http://www.filmon.com/tv/channel/export?channel_id='+param
+  session = requests.session()
+  session.cookies = Cookie_Jar
+  source= session.get(url, headers = headers)
+  swf = re.findall('streamer":"(.*?)"', source.text)[0]
+  cleanswf = swf.replace('\\/','/')
+  referer = 'http://www.filmon.com' + cleanswf
+  refpage = 'https://www.filmon.com/'
+  page = requests.get(refpage)
+  headers1 = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0', 'Referer': refpage, 'X-Requested-With': 'XMLHttpRequest', 'Cookie': str(page.cookies)}
+  params = {'channel_id': param, 'quality': 'high'}
+  url2 = 'https://www.filmon.com/ajax/getChannelInfo'
+  source1 = requests.post(url2, params=params, headers=headers1).text
+  return re.findall('"high","url":"([^"]+)"', source1)[0].replace('\/', '/')
+ 
+def GetLSProData(page_data,Cookie_Jar,m):
+  import os,urllib
+  callbackfunction=os.path.realpath(__file__)
+  callbackparam='3617'
+  url=getUrl('3617',Cookie_Jar)
+  referer = 'http://www.filmon.com/'
+  print 'url',url
+  return urllib.quote_plus (url + '|Referer=' + referer+'&cookie='+getCookiesString(Cookie_Jar)+'&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36') +'&callbackpath='+urllib.quote_plus(callbackfunction)+'&callbackparam='+urllib.quote_plus(callbackparam)
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-3j29nfPxOLg/AAAAAAAAAAI/AAAAAAAAAAA/bICYE2hhOcc/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+
+
+<title>SMASH TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres><![CDATA[#$pyFunction
+def getCookiesString(cookieJar):
+    try:
+        cookieString=""
+        for index, cookie in enumerate(cookieJar):
+            cookieString+=cookie.name + "=" + cookie.value +";"
+    except: pass
+    #print 'cookieString',cookieString
+    return cookieString
+
+def f4mcallback(param, type, error, Cookie_Jar, url, headers):
+  if type==1:
+    newurl=getUrl(param,Cookie_Jar)
+    oldservername=url.split('/')[2]
+    newserver=newurl.split('/')
+    newserver[2]=oldservername
+    newurl='/'.join(newserver)
+    return newurl,Cookie_Jar
+  else:
+    return '',None
+
+def getUrl(param, Cookie_Jar):
+  import requests, re, urllib, inspect
+  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
+  url = 'http://www.filmon.com/tv/channel/export?channel_id='+param
+  session = requests.session()
+  session.cookies = Cookie_Jar
+  source= session.get(url, headers = headers)
+  swf = re.findall('streamer":"(.*?)"', source.text)[0]
+  cleanswf = swf.replace('\\/','/')
+  referer = 'http://www.filmon.com' + cleanswf
+  refpage = 'https://www.filmon.com/'
+  page = requests.get(refpage)
+  headers1 = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0', 'Referer': refpage, 'X-Requested-With': 'XMLHttpRequest', 'Cookie': str(page.cookies)}
+  params = {'channel_id': param, 'quality': 'high'}
+  url2 = 'https://www.filmon.com/ajax/getChannelInfo'
+  source1 = requests.post(url2, params=params, headers=headers1).text
+  return re.findall('"high","url":"([^"]+)"', source1)[0].replace('\/', '/')
+ 
+def GetLSProData(page_data,Cookie_Jar,m):
+  import os,urllib
+  callbackfunction=os.path.realpath(__file__)
+  callbackparam='3455'
+  url=getUrl('3455',Cookie_Jar)
+  referer = 'http://www.filmon.com/'
+  print 'url',url
+  return urllib.quote_plus (url + '|Referer=' + referer+'&cookie='+getCookiesString(Cookie_Jar)+'&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36') +'&callbackpath='+urllib.quote_plus(callbackfunction)+'&callbackparam='+urllib.quote_plus(callbackparam)
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/3455/big_logo.png</thumbnail>
+</item>
+
+
+
+
+<title>TIWA N TIWA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=$doregex[get-url]</link>
+<regex>
+<name>get-url</name>
+<expres><![CDATA[#$pyFunction
+def getCookiesString(cookieJar):
+    try:
+        cookieString=""
+        for index, cookie in enumerate(cookieJar):
+            cookieString+=cookie.name + "=" + cookie.value +";"
+    except: pass
+    #print 'cookieString',cookieString
+    return cookieString
+
+def f4mcallback(param, type, error, Cookie_Jar, url, headers):
+  if type==1:
+    newurl=getUrl(param,Cookie_Jar)
+    oldservername=url.split('/')[2]
+    newserver=newurl.split('/')
+    newserver[2]=oldservername
+    newurl='/'.join(newserver)
+    return newurl,Cookie_Jar
+  else:
+    return '',None
+
+def getUrl(param, Cookie_Jar):
+  import requests, re, urllib, inspect
+  headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36'}
+  url = 'http://www.filmon.com/tv/channel/export?channel_id='+param
+  session = requests.session()
+  session.cookies = Cookie_Jar
+  source= session.get(url, headers = headers)
+  swf = re.findall('streamer":"(.*?)"', source.text)[0]
+  cleanswf = swf.replace('\\/','/')
+  referer = 'http://www.filmon.com' + cleanswf
+  refpage = 'https://www.filmon.com/'
+  page = requests.get(refpage)
+  headers1 = {'User-Agent': 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:50.0) Gecko/20100101 Firefox/50.0', 'Referer': refpage, 'X-Requested-With': 'XMLHttpRequest', 'Cookie': str(page.cookies)}
+  params = {'channel_id': param, 'quality': 'high'}
+  url2 = 'https://www.filmon.com/ajax/getChannelInfo'
+  source1 = requests.post(url2, params=params, headers=headers1).text
+  return re.findall('"high","url":"([^"]+)"', source1)[0].replace('\/', '/')
+ 
+def GetLSProData(page_data,Cookie_Jar,m):
+  import os,urllib
+  callbackfunction=os.path.realpath(__file__)
+  callbackparam='3458'
+  url=getUrl('3458',Cookie_Jar)
+  referer = 'http://www.filmon.com/'
+  print 'url',url
+  return urllib.quote_plus (url + '|Referer=' + referer+'&cookie='+getCookiesString(Cookie_Jar)+'&User-Agent=Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/52.0.2743.116 Safari/537.36') +'&callbackpath='+urllib.quote_plus(callbackfunction)+'&callbackparam='+urllib.quote_plus(callbackparam)
+]]></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://static.filmon.com/assets/channels/3458/big_logo.png</thumbnail>
+</item>
+
+
+
+<title> France 24 Nollywood e</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail>https://yt3.ggpht.com/-bIoTmXhcanw/AAAAAAAAAAI/AAAAAAAAAAA/RaU_ko0UswE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+   <fanart>https://yt3.ggpht.com/pnif4tM2HBR_MJuOkXL9oj_epz_VoZspiuOaUG2-m6v3GjRb6D4mChp6eh6l7XBjNvHcWfWr=w2560-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no</fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/user/france24nolly/playlists</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-bIoTmXhcanw/AAAAAAAAAAI/AAAAAAAAAAA/RaU_ko0UswE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/pnif4tM2HBR_MJuOkXL9oj_epz_VoZspiuOaUG2-m6v3GjRb6D4mChp6eh6l7XBjNvHcWfWr=w2560-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no</fanart>
+</item>
+
+
+<title> CELEBRATION TV</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail>https://yt3.ggpht.com/-IU8L3drXbsY/AAAAAAAAAAI/AAAAAAAAAAA/56UQVbyyvFY/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+   <fanart>https://yt3.ggpht.com/a-/AJLlDp2EBlgX6CPdLQjUXR1BOtK8_S4LkgddSovIeQ=s88-mo-c-c0xffffffff-rj-k-no</fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/user/CelebrationTV/playlists</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-IU8L3drXbsY/AAAAAAAAAAI/AAAAAAAAAAA/56UQVbyyvFY/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/a-/AJLlDp2EBlgX6CPdLQjUXR1BOtK8_S4LkgddSovIeQ=s88-mo-c-c0xffffffff-rj-k-no</fanart>
+</item>
+
+
+
+<title> CELEBRATION TV</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail>https://yt3.ggpht.com/-IU8L3drXbsY/AAAAAAAAAAI/AAAAAAAAAAA/56UQVbyyvFY/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+   <fanart>https://yt3.ggpht.com/a-/AJLlDp2EBlgX6CPdLQjUXR1BOtK8_S4LkgddSovIeQ=s88-mo-c-c0xffffffff-rj-k-no</fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/user/celebrationtv/playlists</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-IU8L3drXbsY/AAAAAAAAAAI/AAAAAAAAAAA/56UQVbyyvFY/s176-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/a-/AJLlDp2EBlgX6CPdLQjUXR1BOtK8_S4LkgddSovIeQ=s88-mo-c-c0xffffffff-rj-k-no</fanart>
+</item>
+
+<title>Afromotion TV</title>
+<link>https://www.tvaddons.co/forums/$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><=!=[=C=D=A=T=A=[
+   <title>[makelist.param1]</title>
+   <link>https://www.tvaddons.co/forums/$doregex[url]|User-Agent=iPhone</link>
+   <thumbnail>[makelist.param2]</thumbnail>
+]=]=></listrepeat>
+<expres><=!=[=C=D=A=T=A=[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m,url='https://www.afromotion.tv/afrotv/all'):
+  import re,requests,HTMLParser
+  h = HTMLParser.HTMLParser()
+  headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1'}
+  nextpg = True
+  channels = []
+  while nextpg:
+      html = requests.get(url,headers=headers).text
+      items = re.findall('<li><div.+?href="([^"]+).+?src="([^"]+).+?title">([^<]+).+?mark">([^<]+)',html)
+      for surl,thumb,name,country in items:
+        surl = 'https://www.afromotion.tv' + surl
+        title = '[COLOR gold]%s[/COLOR] - [COLOR cyan]%s[/COLOR]'%(country,h.unescape(name))
+        channels.append((title,thumb,surl))
+      if '">»' in html:
+        url = 'https://www.afromotion.tv' + re.findall('href="([^"]+)"\s*data-page[^<]+>»',html)[0]
+      else:
+        nextpg = False
+  return sorted(channels)
+]=]=></expres>
+<page></page>
+<cookieJar></cookieJar>
+</regex>
+<regex>
+<name>url</name>
+<expres><=!=[=C=D=A=T=A=[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+  import re,requests
+  token = re.findall('token"\s*content="([^"]+)',page_data)[0]
+  id  =re.findall("Tv.play\('([^']+)",page_data)[0]
+  headers = {'User-Agent':'Mozilla/5.0 (Windows NT 6.1; rv:14.0) Gecko/20100101 Firefox/14.0.1',
+             'Referer':'https://www.afromotion.tv/',
+             'X-Requested-With':'XMLHttpRequest',
+             'X-CSRF-Token':token}
+  data = {'_id':id}
+  surl = 'https://www.afromotion.tv/ajax/gettvdata'  
+  jd = requests.post(surl,data=data,headers=headers,cookies=Cookie_Jar).json()
+  strurl = jd['url'][0]['src']
+  return strurl
+]=]=></expres>
+<page>[makelist.param3]</page>
+<referer>https://www.afromotion.tv/</referer>
+<cookieJar></cookieJar>
+</regex>
+<thumbnail>https://cdn.afromotion.tv/uploads/images/logo-inline.png</thumbnail>
+</item>
+
+
+<title> France 24 Nollywood @ Youtube</title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+   <title> [makelist.param2]</title>
+   <link>IgnoreMe</link>
+   <jsonrpc>plugin://plugin.video.youtube/playlist/[makelist.param1]/</jsonrpc>
+   <thumbnail>https://yt3.ggpht.com/-bIoTmXhcanw/AAAAAAAAAAI/AAAAAAAAAAA/RaU_ko0UswE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+   <fanart>https://yt3.ggpht.com/pnif4tM2HBR_MJuOkXL9oj_epz_VoZspiuOaUG2-m6v3GjRb6D4mChp6eh6l7XBjNvHcWfWr=w2560-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no</fanart>
+]]></listrepeat>
+<expres><![CDATA[playlist\?list=(.*?)".*?>(.*?)<]]></expres>
+<page>https://www.youtube.com/user/france24nolly/playlists</page>
+</regex>
+<thumbnail>https://yt3.ggpht.com/-bIoTmXhcanw/AAAAAAAAAAI/AAAAAAAAAAA/RaU_ko0UswE/s288-mo-c-c0xffffffff-rj-k-no/photo.jpg</thumbnail>
+<fanart>https://yt3.ggpht.com/pnif4tM2HBR_MJuOkXL9oj_epz_VoZspiuOaUG2-m6v3GjRb6D4mChp6eh6l7XBjNvHcWfWr=w2560-fcrop64=1,00005a57ffffa5a8-nd-c0xffffffff-rj-k-no</fanart>
+</item>
+
+
+<title>Youtube Playlists max 500 example **https://www.youtube.com/user/TopChannelAlbania/playlists**</title>
+<link>$doregex[makelist]</link>
+
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<title>[makelist.param2]</title>
+<link>$doregex[makelist2]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres>href="\/playlist\?list(.*?)">(.*?)<</expres>
+<page>https://www.youtube.com/channel/UCrF3Zv8PGIT4R4f2LMQvQSQ/playlists</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>makelist2</name>
+<listrepeat><![CDATA[
+<title>page [makelist2.param1]</title>
+<link>$doregex[makelist3]</link>
+<referer></referer>
+<thumbnail></thumbnail>
+]]></listrepeat>
+<expres> (.*?),</expres>
+<page>$doregex[get-number]</page>
+<cookieJar></cookieJar>
+</regex>
+
+<regex>
+            <name>makelist3</name>
+            <listrepeat><![CDATA[
+                        <title>[makelist3.param2]</title>
+                        <link>plugin://plugin.video.youtube/play/?video_id=[makelist3.param1]</link>
+                        <thumbnail>https://i.ytimg.com/vi/[makelist3.param1]/hqdefault.jpg</thumbnail>
+            ]]></listrepeat>
+            <expres>spf-link " dir="ltr" href="\/watch\?v=(.*?)&.*?\n(.*)</expres>
+            <page>$doregex[get-source-page]</page>
+             <cookieJar></cookieJar>
+</regex>
+
+<regex>
+<name>get-number</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+
+ import requests
+ import re
+ url='https://www.youtube.com/playlist?list=' + '[makelist.param1]'
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0', 'Accept-Language': 'en-US'}
+
+ rr = requests.get(url, headers=headers)
+ number = re.findall('</a></li><li>(.*?) vid', rr.text)[0]
+ #number = number.encode('unicode-escape')
+ number = number.replace(',', '')
+ real = int(float(number)) / 100
+ real2 = real + 3
+
+ liste = list(range(real2))
+ return liste
+]]></expres>
+<page></page>
+</regex>
+
+<regex>
+<name>get-source-page</name>
+<expres><![CDATA[#$pyFunction
+def GetLSProData(page_data,Cookie_Jar,m):
+
+ import requests
+ import re
+ import json
+
+
+ pageUrl='https://www.youtube.com/playlist?list=' + '[makelist.param1]'
+
+ headers = {'User-Agent': 'Mozilla/5.0 (X11; Linux i686; rv:42.0) Gecko/20100101 Firefox/42.0 Iceweasel/42.0'}
+
+ r1 = requests.get(pageUrl, headers = headers)
+ source1= r1.text
+ page =[makelist2.param1]
+ N= int(float(page))
+ pre= 'https://www.youtube.com'
+ if (N != 1):
+
+  if (N ==2):
+   continue1 = re.findall('data-uix-load-more-href="(.*?)"', source1)[0] 
+   continuation1 = pre + continue1
+   r2 = requests.get(continuation1, headers = headers)
+   source2= r2.text
+   jdata=json.loads(source2)
+   source2=jdata["load_more_widget_html"]
+   page2 = jdata["content_html"]
+   return page2
+
+  else:
+   if (N==3):
+    continue1 = re.findall('data-uix-load-more-href="(.*?)"', source1)[0]
+    continuation1 = pre + continue1
+    r2 = requests.get(continuation1, headers = headers)
+    source2= r2.text
+    jdata=json.loads(source2)
+    source2=jdata["load_more_widget_html"]
+    page2 = jdata["content_html"]
+    continue2 = re.findall('data-uix-load-more-href="(.*?)"', source2)[0]
+    continuation2 = pre + continue2
+    r3 = requests.get(continuation2, headers = headers)
+    source3 = r3.text 
+    jdata=json.loads(source3)
+    source3=jdata["load_more_widget_html"]
+    page3 = jdata["content_html"]
+    return page3
+
+   else:
+    if (N==4):
+     continue1 = re.findall('data-uix-load-more-href="(.*?)"', source1)[0]
+     continuation1 = pre + continue1
+     r2 = requests.get(continuation1, headers = headers)
+     source2= r2.text
+     jdata=json.loads(source2)
+     source2=jdata["load_more_widget_html"]
+     page2 = jdata["content_html"]
+     continue2 = re.findall('data-uix-load-more-href="(.*?)"', source2)[0]
+     continuation2 = pre + continue2
+     r3 = requests.get(continuation2, headers = headers)
+     source3 = r3.text 
+     jdata=json.loads(source3)
+     source3=jdata["load_more_widget_html"]
+     page3 = jdata["content_html"]
+     continue3 = re.findall('data-uix-load-more-href="(.*?)"', source3)[0]
+     continuation3 = pre + continue3    
+     r4 = requests.get(continuation3, headers = headers)
+     source4 = r4.text 
+     jdata=json.loads(source4)
+     source4=jdata["load_more_widget_html"]
+     page4 = jdata["content_html"]
+     return page4
+
+    else:
+     if (N==5):
+      continue1 = re.findall('data-uix-load-more-href="(.*?)"', source1)[0]
+      continuation1 = pre + continue1
+      r2 = requests.get(continuation1, headers = headers)
+      source2= r2.text
+      jdata=json.loads(source2)
+      source2=jdata["load_more_widget_html"]
+      page2 = jdata["content_html"]
+      continue2 = re.findall('data-uix-load-more-href="(.*?)"', source2)[0]
+      continuation2 = pre + continue2
+      r3 = requests.get(continuation2, headers = headers)
+      source3 = r3.text 
+      jdata=json.loads(source3)
+      source3=jdata["load_more_widget_html"]
+      page3 = jdata["content_html"]
+      continue3 = re.findall('data-uix-load-more-href="(.*?)"', source3)[0]
+      continuation3 = pre + continue3    
+      r4 = requests.get(continuation3, headers = headers)
+      source4 = r4.text 
+      jdata=json.loads(source4)
+      source4=jdata["load_more_widget_html"]
+      page4 = jdata["content_html"]
+      continue4 = re.findall('data-uix-load-more-href="(.*?)"', source4)[0]
+      continuation4 = pre + continue4
+      r5 = requests.get(continuation4, headers = headers)
+      source5 = r5.text 
+      jdata=json.loads(source5)
+      source5=jdata["load_more_widget_html"]
+      page5 = jdata["content_html"]
+      return page5
+     
+ else:
+
+  #return source1.encode('unicode-escape')
+  return source1
+]]></expres>
+<page></page>
+</regex>
+
+</item>

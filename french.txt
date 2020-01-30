@@ -1,0 +1,299 @@
+<item>
+<title> TEMPO AFRIC</title>
+<link>http://tempoafric1.tulix.tv/output2/output2.stream/playlist.m3u8<link>
+</item>
+<item>
+<title>BBLACK  TV</title>
+<link>http://ec.playmedia.fr/beblack/africa/playlist.m3u8<link>
+</item>
+
+<item>
+<title> RTI 1 IVORY COAST</title>
+<link>http://188.138.102.27:1935/live/smil:rti1.smil/playlist.m3u8</link>
+<thumbnail>http://cdn.afromotion.tv/uploads/thumbs/cache/2a70feff6f88ed82fa6f7e6a8d4c749c0b0d3fd9300.jpg</thumbnail>
+</item>
+<item>
+<title> RTI 2 IVORY COAST</title>
+<link>http://188.138.102.27:1935/live/smil:rti2.smil/playlist.m3u8</link>
+<thumbnail>http://cdn.afromotion.tv/uploads/thumbs/cache/731c5915c916c274f259d1d040f059f57ed98e62300.jpg</thumbnail>
+</item>
+<item>
+<title> ORTM MALI</title>
+<link>http://xmaliactux.api.channel.livestream.com/3.0/playlist.m3u8?myskyplayer.m3u8</link>
+</item>
+
+
+<item>
+<title>RTB BURKINA FASO</title>
+<link>http://197.159.196.14:8001/play/s42</link>
+</item>
+
+
+<item>
+<title>BURKINA INFO</title>
+<link>http://197.159.196.14:8001/play/s30</link>
+</item>
+
+<item>
+<title>IMPAC TV</title>
+<link>http://197.159.196.14:8001/play/s51</link>
+</item>
+
+<item>
+<title>ORTB BENIN</title>
+<link>http://197.159.196.14:8001/play/s44</link>
+</item>
+
+
+<item>
+<title>GOLFE TV BENIN</title>
+<link>http://197.159.196.14:8001/play/s45</link>
+</item>
+
+
+<item>
+<title>TVC BENIN</title>
+<link>http://197.159.196.14:8001/play/s37</link>
+</item>
+
+
+
+<item>
+<title>LC2 BENIN</title>
+<link>http://197.159.196.14:8001/play/s38</link>
+</item>
+
+
+<item>
+<title>GABON 24</title>
+<link>http://197.159.196.14:8001/play/s32</link>
+</item>
+
+
+<item>
+<title>HADI TV5</title>
+<link>http://197.159.196.14:8001/play/s35</link>
+</item>
+
+
+<item>
+<title>STAD AFRIC</title>
+<link>http://197.159.196.14:8001/play/s36</link>
+</item>
+
+
+
+
+<item>
+<title>GABON TV</title>
+<link>http://197.159.196.14:8001/play/s46</link>
+</item>
+
+
+<item>
+<title>4 VISION</title>
+<link>http://197.159.196.14:8001/play/s47</link>
+</item>
+
+
+<item>
+<title>2S</title>
+<link>http://197.159.196.14:8001/play/s48</link>
+</item>
+
+
+
+<item>
+<title>AMEN TV</title>
+<link>http://197.159.196.14:8001/play/s55</link>
+</item>
+
+
+<item>
+<title>POWER TV</title>
+<link>http://197.159.196.14:8001/play/s40</link>
+</item>
+
+
+<item>
+<title>AFRICA TV3</title>
+<link>http://197.159.196.14:8001/play/s39</link>
+</item>
+
+
+
+<item>
+<title>GWAJI</title>
+<link>http://197.159.196.14:8001/play/s49</link>
+</item>
+
+
+<item>
+<title>AREWA 24</title>
+<link>http://197.159.196.14:8001/play/s29</link>
+</item>
+
+
+<item>
+<title> TV5 MONDE</title>
+<link>http://197.159.196.14:8001/play/s54</link>
+</item>
+
+<item>
+<title>CNEWS</title>
+<dmlive>x3b68jn</dmlive>
+<referer>http://www.cnews.fr/</referer>
+</item>
+
+<item>
+<title> CNEWS</title>
+<link>http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/itele-clair-hd-video=1500000-audio_AACL_fra_96000_127=96000.m3u8?token=4ec4f1caf7a6681e16104bc4873db4bf</link>
+</item>
+
+
+<item>
+<title>FRANCE 24</title>
+<link>http://197.159.196.14:8001/play/s65</link>
+</item>
+
+
+<item>
+<title> D24</title>
+<link>rtmp://diaspora24.tv:1935/diaspora24tv playpath=diaspora24 swfUrl=http://www.centraltv.fr/jwplayer/jwplayer.flash.swf pageUrl=http://www.centraltv.fr/senegal-television/diaspora-24-tv</link>
+</item>
+
+<item>
+<title>Afrique Media Tv</title>
+<link>http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/playlist.m3u8?</link>
+</item>
+
+<item>
+<title> TVT TOGO</title>
+<link>rtmps://5750a06754d01.streamlock.net/live playpath=TVT2.mp4 swfUrl=http://roku.muntumedia.s3.amazonaws.com/player.swf live=1 pageUrl=http://muntumedia.com/television/13-africa24-en-direct</link>
+</item>
+
+
+
+<item>
+<title> CANAL DE VIE</title>
+<link>rtmp://rtmp.infomaniak.ch/livecast/ playpath=canaldevielivetv-test swfUrl=http://www.static.infomaniak.ch/livetv/playerMain-v4.2.76.swf?bLd=0&sDescription=&sTitle=&sVersion=4%2E2%2E76 pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=canaldevielivetv-test&name=adobe_flash_media_live_encoder&player=2033</link>
+</item>
+
+
+
+<item>
+<title> CANAL  225</title>
+<link>rtmp://46.105.15.96:1935/live/ Playpath=myStream swfUrl=http://www.livetvswatch.com/scripts/jwplayer/jwplayer.flash.swf pageUrl=http://www.livetvswatch.com/play.php?id=329</link>
+</item>
+
+
+
+<item>
+<title>France 24</title>
+<link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8</link>
+</item>
+
+
+
+<item>
+<title>Euronews</title>
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8</link>
+</item>
+
+
+
+<item>
+<title> CANAL DE VIE</title>
+<link>rtmp://rtmp.infomaniak.ch/livecast/ playpath=canaldevielivetv-test swfUrl=http://www.static.infomaniak.ch/livetv/playerMain-v4.2.76.swf?bLd=0&sDescription=&sTitle=&sVersion=4%2E2%2E76 pageUrl=http://livevideo.infomaniak.com/iframe.php?stream=canaldevielivetv-test&name=adobe_flash_media_live_encoder&player=2033 live=1 timeout=15</link>
+</item>
+
+<item>
+<title> DBS TV</title>
+<link>http://hls.ssh101.com/live/dbstv1/index.m3u8</link>
+</item>
+http://hls.ssh101.con/live/dbstv1/index.m3u8
+
+
+<item>
+<title>ARK OF GOD TV</title>
+<link>plugin://plugin.video.youtube/play/?video_id=IDi50h0v3mY</link>
+<thumbnail>http://www.arkofgod.tv/wp-content/uploads/2016/09/bar_sunday_message.fw_.png</thumbnail>
+</item>
+
+
+
+
+<item>
+<title> RTI 1 IVORY COAST</title>
+<link>http://188.138.102.27:1935/live/smil:rti1.smil/playlist.m3u8</link>
+<thumbnail>http://cdn.afromotion.tv/uploads/thumbs/cache/2a70feff6f88ed82fa6f7e6a8d4c749c0b0d3fd9300.jpg</thumbnail>
+</item>
+<item>
+<title> RTI 2 IVORY COAST</title>
+<link>http://188.138.102.27:1935/live/smil:rti2.smil/playlist.m3u8</link>
+<thumbnail>http://cdn.afromotion.tv/uploads/thumbs/cache/731c5915c916c274f259d1d040f059f57ed98e62300.jpg</thumbnail>
+</item>
+
+
+<item>
+<title> ORTM MALI</title>
+<link>http://xmaliactux.api.channel.livestream.com/3.0/playlist.m3u8?myskyplayer.m3u8</link>
+</item>
+
+
+
+<item>
+<title> CNEWS</title>
+<link>http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/itele-clair-hd-video=1500000-audio_AACL_fra_96000_127=96000.m3u8?token=4ec4f1caf7a6681e16104bc4873db4bf</link>
+</item>
+
+
+
+
+
+<item>
+<title> D24</title>
+<link>rtmp://diaspora24.tv:1935/diaspora24tv playpath=diaspora24 swfUrl=http://www.centraltv.fr/jwplayer/jwplayer.flash.swf pageUrl=http://www.centraltv.fr/senegal-television/diaspora-24-tv</link>
+</item>
+
+<item>
+<title>AFRICA 24</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ixq8_Q1di_4</link>
+<thumbnail>https://yt3.ggpht.com/-JUVnPiXJd50/AAAAAAAAAAI/AAAAAAAAAAA/sD1CCc9gV-k/s100-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Afrique Media Tv</title>
+<link>http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/playlist.m3u8?</link>
+</item>
+
+<item>
+<title> TVT TOGO</title>
+<link>rtmps://5750a06754d01.streamlock.net/live playpath=TVT2.mp4 swfUrl=http://roku.muntumedia.s3.amazonaws.com/player.swf live=1 pageUrl=http://muntumedia.com/television/13-africa24-en-direct</link>
+</item>
+
+
+
+
+
+
+<item>
+<title> CANAL  225</title>
+<link>rtmp://46.105.15.96:1935/live/ Playpath=myStream swfUrl=http://www.livetvswatch.com/scripts/jwplayer/jwplayer.flash.swf pageUrl=http://www.livetvswatch.com/play.php?id=329 live=1 timeout=15</link>
+</item>
+
+
+
+<item>
+<title>France 24</title>
+<link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8</link>
+</item>
+
+
+
+<item>
+<title>Euronews</title>
+<link>http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8</link>
+</item>
+

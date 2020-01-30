@@ -1,0 +1,887 @@
+#EXTM3U
+
+
+#EXTINF:0, [COLOR green]=-=-GHANA RADIO---[/COLOR]  
+
+
+
+#EXTINF:-1 radio=true, HOT DIGITAL RADIO
+http://str01.hotdigitalradio.com:8002/;*.nsv
+
+#EXTINF:-1 radio=true, ABN RADIO
+http://tx.sharp-stream.com/http_live.php?i=abnradio.mp3
+
+
+
+#EXTINF:-1 radio=true, HIGHLIFE RADIO
+http://2428.cloudrad.io/;stream.mp3
+
+#EXTINF:-1 radio=true, GHRADIO 1
+http://radioservers.biz:9946/;stream.mp3
+#EXTINF:-1 radio=true, RAINBOW RADIO UK
+http://usa7.fastcast4u.com:6282/;stream.mp3
+#EXTINF:-1 radio=true, LATENU FM
+http://latenufmonline.stream.myghanaonline.com:4272/;stream.mp3
+
+#EXTINF:-1 radio=true, GADANGME RADIO
+http://radiogadangme.primcast.com:8670/;*.nsv
+#EXTINF:-1 radio=true, HEDZOLE RADIO
+http://149.210.172.183:8010/;stream.mp3
+#EXTINF:-1 radio=true, HOT FM UK
+http://whooshserver.net:9086/;stream.mp3
+#EXTINF:-1 radio=true, GOSPEL GH
+http://37.187.90.121:3984/;*.nsv
+
+#EXTINF:-1 radio=true, NASPA RADIO
+http://stream.zenolive.com/0039nr1s55vtv
+
+#EXTINF:-1 radio=true, COCORADIO
+http://50.7.53.2/cocoradio_hi
+#EXTINF:-1 radio=true, AHENFIE RADIO USA
+http://198.154.246.167:8000/live
+
+#EXTINF:-1 radio=true, ABEM FM BELGIUM
+http://s10.voscast.com:7916/;*.nsv
+
+#EXTINF:-1 radio=true, SOURCES RADIO UK
+http://206.190.150.90:8220/live
+
+#EXTINF:-1 radio=true, KOKROKOO FM GERMANY
+http://streamplus14.leonex.de:16678/;stream.mp3
+#EXTINF:-1 radio=true, HOT FM GHANA
+http://sp1001.space.com.gh:8016/stream
+
+#EXTINF:-1 radio=true, ADOM FM GHANA
+http://stream.zenolive.com/c342hbt4wewtv
+
+#EXTINF:-1 radio=true, PEACE FM GHANA
+http://stream.zenolive.com/k758qw3mb
+
+#EXTINF:-1 radio=true, KESSBEN FM GHANA
+http://ample-zeno-01.radiojar.com/29hv4tyy1xmtv
+
+#EXTINF:-1 radio=true, OMAN FM GHANA
+http://ample-zeno-07.radiojar.com/g0cuyd4h5xmtv
+
+#EXTINF:-1 radio=true, MERCURY FM GHANA
+http://sp1001.space.com.gh:8003/stream
+
+#EXTINF:-1 radio=true, OTEC FM GHANA
+http://stream.zenolive.com/e9epazpy1xmtv
+
+#EXTINF:-1 radio=true, ASEMPA FM GHANA
+http://stream.zenolive.com/namtz9c7ws5tv
+
+#EXTINF:-1 radio=true, ATINKA FM GHANA
+http://78.129.163.73:26936/;stream.mp3
+
+#EXTINF:-1 radio=true, NHIRA FM GHANA
+http://stream.zenolive.com/ewf94rwtqd5tv
+#EXTINF:-1 radio=true, OKAY FM GHANA
+http://198.255.36.2:8064/;stream.mp3
+
+#EXTINF:-1 radio=true, FOX FM GHANA
+http://stream.zenolive.com/khtsm84mb
+
+#EXTINF:-1 radio=true, GHANA FOR CHRIST
+http://ksb1.com:9010/;?type=http&amp;nocache=115
+
+#EXTINF:-1 radio=true, AHOMKA RADIO UK
+http://webradio.radiomonitor.com/stream/AhomkaRadio/;stream.mp3
+#EXTINF:-1 radio=true, WBLS RADIO UK
+http://s2.myradiostream.com:3604/;
+#EXTINF:-1 radio=true, Heart of Praise Africa
+http://99.198.118.250:8134/stream
+
+#EXTINF:-1 radio=true, Heart Of Praise UK
+http://s4.streammonster.com:8425/stream
+
+#EXTINF:-1 radio=true, TOOBOI RADIO
+http://212.83.172.11:9257/2?/;tsooboi.mp3;audio.mp3
+
+
+
+
+#EXTINF:-1 radio=true, GHANA WAVES
+http://streaming.shoutcast.com/GhanaWavesRadio
+
+
+#EXTINF:-1 radio=true, KANAWUONLINE RADIO
+http://streaming01.x-6.nl:8005/;stream.mp3
+
+#EXTINF:-1 radio=true,GHAMES RADIO
+http://s10.voscast.com:7916/;stream.mp3
+#EXTINF:-1 radio=true, WORD RADIO
+http://50.7.70.66:8597/;stream.mp3
+
+
+
+#EXTINF:-1 radio=true, PLANET FM GHANA
+http://ghanasky.com/wp-content/uploads/2017/02/nosky.mp3
+
+#EXTINF:-1 radio=true, RADIO GOLD GHANA
+http://198.27.83.198:5194/;stream.mp3
+
+#EXTINF:-1 radio=true, CHRISTIAN POWER PRAISE
+http://listen.christianpowerpraise.net/stream/7/;
+#EXTINF:-1 radio=true, Nigerian Gospel Radio
+http://pipe.ukprostream.com:8090/;?.mp3;
+#EXTINF:-1 radio=true, Worship Culture Radio
+http://37.187.79.153:5130/;stream.mp3
+
+#EXTINF:-1 radio=true, Heart Of Praise UK
+http://s4.streammonster.com:8425/stream
+#EXTINF:-1 radio=true, RCCG RADIO
+http://s8.voscast.com:9516/;
+#EXTINF:-1 radio=true, Inspiration FM
+http://67.228.150.175:8550/;
+#EXTINF:-1 radio=true,Praise World Radio
+http://streaming.radio.co/s7dc18f0ad/listen
+#EXTINF:-1 radio=true, AMEN Radio
+http://eu3.fastcast4u.com:5942/;
+
+#EXTINF:-1 radio=true, NRT Worship Radio
+http://knight.wavestreamer.com:5629/stream/1/
+
+#EXTINF:-1 radio=true, African Gospel Media
+http://agmradio.serverhostingcenter.com:8474/;
+
+#EXTINF:-1 radio=true, SALT FM
+http://46.28.49.164:7410/stream
+#EXTINF:-1 radio=true, WOLEM RADIO
+http://108.60.217.38:8011/;stream.mp3
+
+
+#EXTINF:-1 group-title="AFRICA", [COLOR yellow]///// AFRICA \\\\\\[/COLOR]
+...
+
+
+
+#EXTINF:0, GH CANADA TV
+http://uni8rtmp.tulix.tv/ghanaglobal/ghanaglobal/playlist.m3u8
+
+
+
+#EXTINF:0, GH TV
+rtmp://37.48.120.77:1935/hls/ playpath=ghtvonline swfUrl=http://ssl.p.jwpcdn.com/player/v/7.3.6/jwplayer.flash.swf pageUrl=http://www.modernghana.com/player/tv/play/?f=rtmp://37.48.120.77:1935/hls/ghtvonline&f2=http://37.48.120.77:8080/hls/ghtvonline.m3u8 live=1 timeout=15
+
+#EXTINF:0, GH TV [COLOR yellow] ABROAD [/COLOR]
+rtmp://198.7.63.116/hls/ playpath=ghtvabroad swfUrl=http://ssl.p.jwpcdn.com/player/v/7.3.6/jwplayer.flash.swf pageUrl=http://content.jwplatform.com/players/yq83WCRj-kVBjUFho.html live=1 timeout=15
+
+#EXTINF:0, SANKOFA TV
+http://live.sankofatv.com/hls/sankofatv.m3u8
+
+
+
+#EXTINF:0, SOURCES TV
+http://s30.streamerportal.com:1935/live/sourcetv/playlist.m3u8
+#EXTINF:0, ASHANTI24 TV
+rtmp://s30.streamerportal.com:1935/live/ playpath=ashanti24tv swfUrl=http://ssl.p.jwpcdn.com/player/v/7.2.4/jwplayer.flash.swf pageUrl=http://www.modernghana.com/player/tv/play/?f=rtmp://s30.streamerportal.com:1935/live/ashanti24tv live=1 timeout=10
+
+#EXTINF:-1,HABA MOVIES
+http://live.on4cdn.net/live/27937601/haba_abr/playlist.m3u8?
+
+#EXTINF:0,  AIT INT'L
+http://live.on4cdn.net/live/27937601/ait_abr/playlist.m3u8?
+#EXTINF:-1, AIT
+http://37.187.167.240:8080/ait/index.m3u8?token=704c95c11fdc0327921a0fb45ce70571&u=1547&p=89154
+
+#EXTINF:-1, VOX AFRICA
+http://live.on4cdn.net/live/27937601/vox_abr/playlist.m3u8?
+
+
+
+
+
+#EXTINF:-1, KOMBAT TV
+http://live.on4cdn.net/live/27937601/kombat_abr/playlist.m3u8?
+
+
+
+
+
+
+#EXTINF:-1, GOLDMYNE TV
+rtmp://151.80.20.150:1935/goldmyne/ playpath=goldmyne swfUrl=http://151.80.20.150/wseplugins/jwplayer/jwplayer.flash.swf pageUrl=http://goldmyne.tv/livetv/ live=1 timeout=15
+#EXTINF:-1,KEDU TV
+http://player.webvideocore.net/CL1olYogIrDWvwqiIKK7eLBkzvO18gwo9ERMzsyXzwt_t-ya8ygf2kQBZww38JJT/a_9fj0dlry6144.m3u8
+
+#EXTINF:-1, ADOM TV
+http://bk7l2g37dx53-hls-live.5centscdn.com/adom/5b97b7d64a64c7cd54c18b07e93570a1.sdp/index.m3u8?
+
+#EXTINF:-1, JOY NEWS
+http://bk7l2g37dx53-hls-live.5centscdn.com/joynews/72781e965e0681e980034a778ee7067b.sdp/index.m3u8?no_cache=0.5624642813293015
+
+#EXTINF:-1, JOY PRIME
+http://bk7l2g37dx53-hls-live.5centscdn.com/Joyprime/Live2.stream/index.m3u8?
+
+
+#EXTINF:-1, SMASH TV
+http://live.on4cdn.net/live/27937601/smash_abr/playlist.m3u8?
+#EXTINF:-1, TIWA N TIWA
+http://live.on4cdn.net/live/27937601/tiwa_abr/playlist.m3u8?
+#EXTINF:-1, FAME TV
+http://live.on4cdn.net/live/27937601/fame_abr/playlist.m3u8?
+
+#EXTINF:-1,TRACE AFRICA
+https://d2ktlibtvvj8vp.cloudfront.net/trace_africa/1/prog_index.m3u8
+#EXTINF:-1,TRACE MZIKI
+https://d2ktlibtvvj8vp.cloudfront.net/trace_mizki/6/prog_index.m3u8
+#EXTINF:-1, TRACE PRIME
+https://d2ktlibtvvj8vp.cloudfront.net/trace_prime/6/prog_index.m3u8
+#EXTINF:-1,TRACE NAIJA 
+https://d2ktlibtvvj8vp.cloudfront.net/trace_naija/6/prog_index.m3u8
+#EXTINF:-1,TRACE TROPICAL
+https://d2ktlibtvvj8vp.cloudfront.net/trace_tropical/6/prog_index.m3u8
+
+#EXTINF:0,BBLACK TV
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+
+#EXTINF:0,BBLACK CARIBBEAN TV
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:0,BBLACK CLASSIK TV
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+#EXTINF:-1,DBM TV
+rtmp://teststream.vedge.infomaniak.com/livecast playpath=teststream swfUrl=https://static.infomaniak.ch/livetv/playerMain-v4.2.81.swf?sVersion=4%2E2%2E81&bLd=0&p=https&sTitle=&sDescription= pageUrl=https://livevideo.infomaniak.com/iframe.php?stream=teststream&name=testlive&player=3876 live=1 timeout=15
+
+#EXTINF:0, FUSIONPLUS TV
+http://live.on4cdn.net/live/27937601/fptv_abr/playlist.m3u8
+
+#EXTINF:-1, VIEWS CHANNEL
+http://live.on4cdn.net/live/27937601/views_abr/playlist.m3u8?
+
+#EXTINF:-1,GLITZ NETWORK
+http://live.on4cdn.net/live/27937601/glitz_abr/playlist.m3u8?
+
+#EXTINF:-1, YANGA! TV
+http://live.on4cdn.net/live/27937601/ohafrica_abr/playlist.m3u8?
+
+
+#EXTINF:-1,WEDDING CHANNEL 
+http://live.on4cdn.net/live/27937601/ohuk_abr/playlist.m3u8?
+
+
+#EXTINF:-1,MANGO TV
+http://live.on4cdn.net/live/27937601/mango_abr/playlist.m3u8?
+
+#EXTINF:-1,EUREKA
+http://live.on4cdn.net/live/27937601/eureka_abr/playlist.m3u8?
+
+
+
+
+
+#EXTINF:0, ACTS TV
+https://loadbalancer.inacdn.com/edge/249_1026_live/playlist.m3u8
+
+
+#EXTINF:0, RESURRECTION TV
+http://rtmp.ottdemo.rrsat.com/rrsatrtv1/rrsatrtvmulti.smil/playlist.m3u8
+
+#EXTINF:-1,NTAi
+http://live.on4cdn.net/live/27937601/wap_abr/playlist.m3u8?
+#EXTINF:0,NTAi
+http://213.246.39.124:8081/live/ntai/playlist.m3u8
+
+#EXTINF:-1,BEN TV
+http://live.on4cdn.net/live/27937601/ben_abr/playlist.m3u8?
+
+#EXTINF:0,ITV - NIGERIA
+http://flash.netcasterusa.com:1935/itvlive/itvlive/playlist.m3u8
+
+#EXTINF:-1, AIT INTL
+http://live.on4cdn.net/live/27937601/ait_abr/playlist.m3u8?
+
+
+
+#EXTINF:-1,MITV
+.rtmp://gbim1.flashmediacast.com/gbim/livestream
+#EXTINF:0, RAVE TV
+.http://77.92.76.135:1935/ravetv/livestream/playlist.m3u8
+
+
+
+#EXTINF:-1,WAP TV
+http://live.on4cdn.net/live/27937601/wap_abr/playlist.m3u8?
+
+#EXTINF:0, LAGOS TV
+.http://77.92.76.135/ltv//livestream/playlist.m3u8
+
+#EXTINF:0, WAZOBIA TV
+http://westream.we-tv.tv:1935/live/smil:WazobiaTV.smil/playlist.m3u8
+
+#EXTINF:0, WAZOBIA MAX
+http://westream.we-tv.tv:1935/live/smil:CoolTV.smil/playlist.m3u8
+
+#EXTINF:0, TVC
+http://185.105.4.188:1935/tvce/myStream/playlist.m3u8
+
+
+#EXTINF:0, CHANNELS 24
+http://live.on4cdn.net/live/27937601/chan_abr/playlist.m3u8?
+
+
+#EXTINF:-1,TVC NEWS
+http://live.on4cdn.net/live/27937601/tvc_abr/playlist.m3u8?
+
+#EXTINF:0, TEMPO  AFRIC
+http://tempoafric1.tulix.tv/output2/output2.stream/playlist.m3u8
+
+#EXTINF:0, AFRICA NEWS NETWORK
+rtmp://196.33.130.34/live-ann7 playpath=ann7-hi.stream swfUrl=http://antfarmonline.antfarm.co.za/ann7/flowplayer/flowplayer.commercial-3.2.16.swf pageUrl=http://antfarmonline.antfarm.co.za/ann7/ live=1 timeout=15
+
+
+
+
+
+#EXTINF:-1 group-title="RELIGION", [COLOR blue]////// RELIGION \\\\\\[/COLOR]
+...
+
+
+
+
+
+
+#EXTINF:0, LOVEWORLD PLUS
+http://hls.live.metacdn.com/2450C7/bedkcjfty/lwplus_,628,.m3u8
+
+#EXTINF:0, LOVEWORLD
+rtsp://154.obj.netromedia.net/LoveWorldtv/LoveWorldtv
+#EXTINF:0, MOUNTAIN OF FIRE
+http://rtmp2.ott.mx1.com/mfmtv/mfmtvmulti.smil/playlist.m3u8
+
+
+
+#EXTINF:0, EMMANUEL TV
+http://118965-lh.akamaihd.net/i/etv_live@74820/master.m3u8?b=110-700
+
+#EXTINF:0, REVELATION TV
+http://dwun498y9o8lf.cloudfront.net/coder5/coder.channels.channel11/hls/1/playlist.m3u8
+
+#EXTINF:0, GOD CHANNEL
+http://ooyalahd2-f.akamaihd.net/i/godtv02_delivery@17351/index_282_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:0, SALVATION TV
+http://192.119.11.134:1935/live/smil:stv.smil/playlist.m3u8
+
+
+#EXTINF:0, FAITH TV
+http://aos001faithtv-live.hls.adaptive.level3.net/faithtv/live/stream.m3u8
+#EXTINF:-1, FAITH TV AFRICA
+http://242419-lh.akamaihd.net/i/RiverGroup_iOS@140036/master.m3u8
+
+#EXTINF:0, SPIRIT TV
+http://cdn-live-egress.rbmtv.com/rightbrainmedia-live-109/mp4:spirit_all/playlist.m3u8
+
+
+#EXTINF:0, KINGDOM AFRICA 
+rtmp://cdnvideo.webvideocore.net:1935/livenl playpath=out_arwob65kemo84wk0skoc swfUrl=http://play.webvideocore.net/player3.swf/[[DYNAMIC]]/1 pageUrl=http://katv.moonfruit.com/cgi-bin/snippet.cgi?todo=as_page;instance=4588307314;num=1;community_id=4013016054 live=1 timeout=15
+
+#EXTINF:0,KICC TV
+http://service.webvideocore.net/CL1olYogIrDWvwqiIKK7eBmnWbRkKKsu3nqabm9GlX02JOj3CDNXzodJMDEN2dk3/a_854s9svpm30o.m3u8
+
+#EXTINF:0,PUSH TV
+rtmp://104.245.38.209:1935/pushtv playpath=PUSH swfUrl=http://www.folkstreams.net/common/mediaplayer/mediaplayer.swf pageUrl=http://www-pushmin-tv.filesusr.com/html/74e35c_d378c7606745357f2bc590dc65a107f3.html live=1 timeout=15
+
+
+
+#EXTINF:0,3ABN
+http://moiptvus-lh.akamaihd.net/i/3abnlive_1@328342/index_800_av-p.m3u8
+
+
+#EXTINF:0, UCB TV
+http://live.ucb.simplestreamcdn.com/live/ucbtv/bitrate1.isml/bitrate1-audio_track=64000-video=2500000.m3u8?DVR=1%3FDVR=1
+#EXTINF:0, LIFE ZONE TV
+rtmp://nyc01.netcasterstream.com:1936/lifezone/ playpath=lifezone swfUrl=http://162.244.81.165/mystream/players/jwplayer-7.9.0/jwplayer.flash.swf pageUrl=http://162.244.81.165/mystream/player.php?custid=43&id=70&width=480&height=270&autostart=false live=1 timeout=10
+
+#EXTINF:0,CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8?
+#EXTINF:0, DAYSTAR TV NETWORK
+http://bcsecurelivehls-i.akamaihd.net/hls/live/261547/1539097700001/master.m3u8
+#EXTINF:0,GRACE TV
+http://173.82.34.18:1935/GraceTV/live/playlist.m3u8
+
+#EXTINF:0,ARISE CHRISTIANS TV
+http://89.27.249.106:1935/edge/mp4:249_594_live_480p/chunklist.m3u8
+
+
+#EXTINF:0, THE WORD NETWORK
+http://thewordhls-i.akamaihd.net/hls/live/217932-b/thewordhls/iOS/master.m3u8
+
+#EXTINF:0, WINNERS CHAPEL
+http://78.129.234.50:1935/live/winnerschapel//playlist.m3u8?DVR
+
+#EXTINF:0, CHRIST FAITH TABERNACLE
+http://gghdlive-lh.akamaihd.net/i/christfaithtabernaclecathedral2_1@323145/master.m3u8
+#EXTINF:0, FREEDOM CENTRE INT
+http://gghdlive-lh.akamaihd.net/i/fcifreedomcentreinternational2_1@323145/master.m3u8
+
+#EXTINF:-1,DOVE - REDEEMED
+http://live.on4cdn.net/live/27937601/dove_abr/playlist.m3u8?
+
+#EXTINF:0, DOVE TV - REDEEMED
+rtmp://38.96.175.135:1935/redeemtv/ Playpath=redeemtv swfUrl=http://www.centraltv.fr/jwplayer/jwplayer.flash.swf pageUrl=http://www.centraltv.fr/nigeria-television/dove-television live=1 timeout=10
+#EXTINF:0, CHOSEN TV
+rtmp://omovo.cs.netromedia.com/omovotv1 playpath=omovotv1 swfUrl=http://player.netromedia.com/flowplayer.commercial-3.2.18.swf pageUrl=http://player.netromedia.com/?ID=c90e4dfe-d6bd-4e1c-ac3a-f4cafbe14303&iframe=true&h=480&w=640&autoPlay=true&scaling=scale live=1 timeout=15
+
+
+
+
+
+
+#EXTINF:0, INSPIRATION TV
+http://inspnetworks-lh.akamaihd.net/i/insp_2@393793/master.m3u8
+
+
+#EXTINF:0,SBN
+http://sonlifef.edgesuite.net/files/alt/m3u8/en/master.m3u8
+
+
+
+#EXTINF:-1, LUMEN CHRISTI
+rtmp://38.96.175.135:1935/catholic/ playpath=catholic swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http://162.244.81.165/mystream/player.php?custid=61&id=95&width=480&height=270&autostart=true live=1 timeout=15
+
+#EXTINF:-1,UBN TV
+rtmp://109.123.70.27:1935/8054/8054
+
+
+#EXTINF:-1, ACBN TV
+rtmp://moses.videocdn.scaleengine.net/moses-live/play/mp4:acbnlive timeout=10
+
+#EXTINF:0, ACTS  TV
+https://loadbalancer.inacdn.com/edge/249_1026_live/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="MOVIES",[COLOR pink]///// MOVIES \\\\\\[/COLOR] 
+.
+
+#EXTINF:-1,MAC MAX
+http://149.202.199.128:8080/mbcmax/index.m3u8?token=3012850e89538088ffb15255ed014b4d&u=889&p=987867
+#EXTINF:-1,MBC ACTION
+http://149.202.199.128:8080/mbcaction/index.m3u8?token=b0e0783a5221a45bd13d72c35266d04d&u=889&p=987867
+#EXTINF:-1,MBC 2
+http://149.202.199.128:8080/mbc2/index.m3u8?token=c1789aeba59759909f059345b6e9f1c9&u=889&p=987867
+#EXTINF:-1, SKY MOVIES SELECT
+http://37.187.167.240:8080/skymoviesselect/index.m3u8?token=5a2fc76c2aed7bc53135d7293c65e9e9&u=1547&p=89154
+#EXTINF:-1,SKY MOVIES GREAT
+http://37.187.167.240:8080/skymoviesgreat/index.m3u8?token=f02f86d439a2aed751ee8b71bf5007c7&u=1547&p=89154
+
+#EXTINF:-1,CBS REALITY
+http://37.187.167.240:8080/cbsreality/index.m3u8?token=3368c3c2c4a1427890fd8b3328ff441f&u=1547&p=89154
+#EXTINF:-1,CBS DRAMA
+http://37.187.167.240:8080/cbsdrama/index.m3u8?token=e404b28887e0d8312349076b54123763&u=1547&p=89154
+#EXTINF:-1, CBS ACTION
+http://37.187.167.240:8080/cbsaction/index.m3u8?token=4d99d1ce1850d654c15b6077a2bc8a5d&u=1547&p=89154
+
+
+#EXTINF:-1 group-title="LIVE FOOTBALL", [COLOR green][ ///// LIVE FOOTBALL \\\\\\[/COLOR]
+..
+#EXTINF:0, [COLOR red] REFRESH AND RESTART KODI TO VIEW NEW MATCHES[/COLOR]
+...
+
+#EXTINF:-1,[COLOR yellow] #########################################################[/COLOR]
+....
+
+
+#EXTINF:-1,LIVE GAME 2
+http://149.202.199.128:8080/skysportsmanevent/index.m3u8?token=e5d5078384632345666b2357b43b6fa2&u=1547&p=89154
+
+#EXTINF:-1, SKY  SPORTS NEWS
+http://149.202.199.128:8080/skysportsnews/index.m3u8?token=0f10893751d9341508ec6b89306cee60&u=1547&p=89154
+
+#EXTINF:0, talkSPORT (Audio only)
+http://radio.talksport.com/stream
+
+
+#EXTINF:0, BBC RADIO 5 LIVE (Audio only)
+http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/low/ak/bbc_radio_five_live.m3u8
+
+
+
+#EXTINF:-1 group-title="SPORTS", [COLOR orange] ///// SPORTS \\\\\\[/COLOR]   
+....
+
+
+#EXTINF:-1,SKY SPORTS MAIN
+http://origin1.ddns.net:8080/skysportsmainevent/index.m3u8?token=551bf5c72849f6280eb4f458c05a4e99&u=1547&p=89154
+#EXTINF:-1,SKY SPORTS MAIN
+http://149.202.199.128:8080/skysportsmanevent/index.m3u8?token=e5d5078384632345666b2357b43b6fa2&u=1547&p=89154
+
+#EXTINF:-1,SKY SPORTS CRICKET
+http://origin1.ddns.net:8080/skysports2/index.m3u8?token=62a4c6934ea58f502b333aa720320bed&u=1547&p=89154
+#EXTINF:-1, BT SPORTS 1
+http://37.187.167.240:8080/btsport/index.m3u8?token=2714a5fe854bbfe3f3a520de1321699c&u=1547&p=89154
+#EXTINF:-1, BT SPORTS 2
+http://origin1.ddns.net:8080/btsport2/index.m3u8?token=f1f63502b6c61f882abdf02763f2d259&u=1547&p=89154
+#EXTINF:-1, BT SPORTS 2
+http://149.202.199.128:8080/btsports2hd/index.m3u8?token=b51bcd548f2badad2f47c7c267a7ba98&u=889&p=987867
+
+
+#EXTINF:-1, SKY SPORTS NEWS
+http://149.202.199.128:8080/skysportsnews/index.m3u8?token=0f10893751d9341508ec6b89306cee60&u=1547&p=89154
+
+
+#EXTINF:0,ABC1
+http://31.220.0.196:8081/live/abc1/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMTggMTI6MjI6MTggUE0maGFzaF92YWx1ZT1laUh6WERxQVVmY3psaEFRUG5LcXNRPT0mdmFsaWRtaW51dGVzPTEyMA==
+
+
+#EXTINF:-1,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+
+
+
+#EXTINF:0,Eurosport 1
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1800.m3u8
+
+#EXTINF:0, SPORTS TONIGHT
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD
+
+#EXTINF:0,Bursaspor TV
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/playlist.m3u8
+
+#EXTINF:0,Sports TV
+rtmp://stream.sportstv.com.tr/sportstv/SportsTV3
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="UK TV", [COLOR green]///// UK TV \\\\\\[/COLOR]   
+.....
+
+
+#EXTINF:0,BBC 1 HD
+http://vs-hls-uk-live.akamaized.net/pool_30/live/bbc_one_hd/bbc_one_hd.isml/bbc_one_hd-pa4=128000-video=5070016.m3u8
+
+#EXTINF:-1, BBC 2
+http://37.187.248.218:8080/bbctwo/index.m3u8?token=07f9e8b123f84f967b611af64791cbcf&u=1547&p=89154
+
+#EXTINF:0,BBC 2 HD
+http://vs-hls-uk-live.akamaized.net/pool_31/live/bbc_two_hd/bbc_two_hd.isml/bbc_two_hd-pa4=128000-video=5070016.m3u8
+#EXTINF:-1,BBC 3
+http://37.187.167.240:8080/bbcthree/index.m3u8?token=4ae2ba81679b7be4d8c842b8f2f9242a&u=1547&p=89154
+
+#EXTINF:0,BBC 4 HD
+http://vs-hls-uk-live.akamaized.net/pool_33/live/bbc_four_hd/bbc_four_hd.isml/bbc_four_hd-pa4=128000-video=5070016.m3u8
+
+
+
+#EXTINF:-1,ITV4
+http://origin1.ddns.net:8080/itv4/index.m3u8?token=f83786b7e0f042acbc6fb12517f7b7f6&u=1547&p=89154
+
+
+#EXTINF:-1, CHANNEL 4
+http://flussonic01.ddns.net:80/channel4/index.m3u8?token=5cc1774b9bf987a38a1afaae37356a4a&u=1547&p=89154
+#EXTINF:-1, CHANNEL 5
+http://flussonic01.ddns.net:80/channel5/index.m3u8?token=113bfbb0a21f49f6f39d5ea557e91b12&u=1547&p=89154
+
+
+#EXTINF:-1, SKY ARTS
+http://37.187.167.240:8080/skyarts/index.m3u8?token=5a3b16b34498ba3038c605c0f3bba4df&u=1547&p=89154
+#EXTINF:-1, QUEST
+http://37.187.167.240:8080/quest/index.m3u8?token=d37b0d721bafb85ad5a055817f335a84&u=1547&p=89154
+
+
+
+#EXTINF:-1,NICK TOON
+http://37.187.167.240:8080/nicktoon/tracks-1,2/index.m3u8?token=f49661f29bc080c05d9e3783867ff588
+#EXTINF:-1, NICT TOON
+http://37.187.167.240:8080/nicktoon/index.m3u8?token=f49661f29bc080c05d9e3783867ff588&u=1547&p=89154
+
+
+#EXTINF:-1,FOOD NETWORK
+http://bbtvcdn.ddns.net:8080/OSNfoodnethd/index.m3u8?token=efecd195f268e9e91b3c55cf4f3b92cb&u=1547&p=89154
+
+#EXTINF:-1,NAT GEO
+http://37.187.167.240:8080/natgeo/index.m3u8?token=157df29badec948f69c6d229e26f4d21&u=1547&p=89154
+#EXTINF:-1, NAT GEO WILD
+http://origin1.ddns.net:8080/natgeowild/index.m3u8?token=5a9ffce8793b07f52e0fed9b146065d1&u=1547&p=89154
+
+#EXTINF:-1,DISCOVERY TURBO
+http://37.187.167.240:8080/discoveryturbo/index.m3u8?token=175751c505e29f80a90012b923fae250&u=1547&p=89154
+#EXTINF:-1,DISCOVERY HOME
+http://37.187.167.240:8080/discoveryhome/index.m3u8?token=3dde7c6aeebd90848350966f19a3d080&u=1547&p=89154
+#EXTINF:-1,DISCOVERY CHANNEL
+http://origin1.ddns.net:8080/discoverychannel/index.m3u8?token=907c59d31a2497a8a24059ba6d2bb6d6&u=1547&p=89154
+
+#EXTINF:-1,GOLD
+http://37.187.167.240:8080/gold/index.m3u8?token=99925d066fe6ee80b54ee2ad16a9a7dd&u=1547&p=89154
+#EXTINF:-1, DRAMA
+http://37.187.167.240:8080/drama/index.m3u8?token=374b69910395656792430b1803379823&u=1547&p=89154
+#EXTINF:-1,DMAX
+http://37.187.167.240:8080/dmax/index.m3u8?token=7bf9bf807ac8d64ca7d068de02b87a0b&u=1547&p=89154
+#EXTINF:-1, BOOMERANG
+http://37.187.167.240:8080/boomerang/index.m3u8?token=f6b48c25c5bad63e634a8f9aaa624f7b&u=1547&p=89154
+#EXTINF:-1, ALIBI
+http://37.187.167.240:8080/alibi/index.m3u8?token=1f66b9537065a996239ff4db061cd92c&u=1547&p=89154
+
+#EXTINF:0,CBEEBIES
+http://vs-hls-uk-live.akamaized.net/pool_2/live/cbeebies_hd/cbeebies_hd.isml/cbeebies_hd-pa4=128000-video=5070016.m3u8
+
+#EXTINF:0, CBBC
+http://vs-hls-uk-live.akamaized.net/pool_1/live/cbbc_hd/cbbc_hd.isml/cbbc_hd-pa4=128000-video=5070016.m3u8
+
+
+
+#EXTINF:-1, BBC NEWS  HD
+http://vs-hls-uk-live.akamaized.net/pool_34/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa4=128000-video=5070016.m3u8
+
+#EXTINF:-1 tvg-logo=”tlc.png”, TLC
+http://31.223.238.10:8001/1:0:1:406:2:1:E0831B3:0:0:0:
+
+#EXTINF:0,BBC Parliament HD
+http://vs-hls-uk-live.akamaized.net/pool_1/live/bbc_parliament/bbc_parliament.isml/bbc_parliament-pa3=96000-video=1604032.norewind.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="MUSIC", [COLOR brown]///// MUSIC \\\\\\[/COLOR]
+.
+
+
+
+#EXTINF:0,HEART TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+
+
+#EXTINF:-1,VIVA
+http://37.187.167.240:8080/viva/index.m3u8?token=464e5a500eee18a08fe845e88949802b&u=1547&p=89154
+#EXTINF:-1, VH1
+http://37.187.167.240:8080/vh1/index.m3u8?token=116fc26918758d7657786192273792e5&u=1547&p=89154
+#EXTINF:-1, MTV BASE
+http://origin1.ddns.net:8080/mtvbase/index.m3u8?token=022e867712c1e62ebcb4e5a2222331ff&u=1547&p=89154
+#EXTINF:-1,MTV HITS
+http://origin1.ddns.net:8080/mtvhits/index.m3u8?token=47249dbf603c5ecee5b90a3d530e30df&u=1547&p=89154
+
+#EXTINF:-1, MTV LIVE
+http://37.187.248.218:8080/OSNmtvlivehd/index.m3u8?token=0700b13c82e681694fd5ffadc94ef55a&u=1547&p=89154
+
+#EXTINF:-1,MTV ROCK
+http://37.187.167.240:8080/mtvrock/index.m3u8?token=b24bd5519eb252192e803c09a14e7590&u=1547&p=89154
+#EXTINF:-1, MTV MUSIC
+http://37.187.167.240:8080/mtvmusic/index.m3u8?token=eb010ea71a2150f56d43d1bbb94d2dd6&u=1547&p=89154
+#EXTINF:-1, MTV CLASSIC
+http://37.187.167.240:8080/mtvclassic/index.m3u8?token=a88e807a1cfdd9078f9473be486f437e&u=1547&p=89154
+#EXTINF:-1,MTV
+http://37.187.167.240:8080/mtv/index.m3u8?token=f53789d376c5cfd26a3fd414ed998ea6&u=1547&p=89154
+#EXTINF:-1, CHARTSHOW
+http://37.187.167.240:8080/chartshow/index.m3u8?token=9e77cfa0af08e36cb2be8d5c5b967c74&u=1547&p=89154
+
+
+
+#EXTINF:0, VIRGIN TV
+http://wow01.105.net/live/virgin1/.m3u8
+
+
+#EXTINF:0, REAL HIP HOP NETWORK
+http://rhn.tulix.tv/live/Stream1/playlist.m3u8
+
+
+#EXTINF:0,CAPITAL TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+
+ 
+
+#EXTINF:0, M6 MUSIC
+http://sslhls.m6tv.cdn.sfr.net/hls-live/livepkgr/_definst_/m6_music_hits_hls_aes/m6_music_hits_hls_aes_856.m3u8
+#EXTINF:0, NRJ
+rtmp://5.196.138.6:1935/live playpath=nrjbelgique_720p live=1 timeout=15
+
+
+
+#EXTINF:0,NOW THATS WHAT I CALL MUSIC
+http://goo.gl/cBEXmV
+
+
+#EXTINF:0,ROAD 2 FAME
+rtmp://162.244.81.156:1935/road2fametv playpath=road2fametv swfUrl=http://www.road2fametv.com/public/common/player.swf?id=2&type=channel&lang=en&stamp=13 pageUrl=http://www.road2fametv.com live=true
+
+
+#EXTINF:0, RADIO MONTE CARLO TV
+http://wow01.105.net/live/rmc1/playlist.m3u8
+
+#EXTINF:0, HIT TV
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live live=1 timeout=15
+
+#EXTINF:0,HOT HOT HOT
+http://www.djing.com/tv/hothothot.m3u8
+
+#EXTINF:0,DANCEFLOOR
+http://www.djing.com/tv/dancefloor.m3u8
+
+#EXTINF:0,UNDERGROUND
+http://www.djing.com/tv/underground.m3u8
+
+
+#EXTINF:-1 group-title="NEWS", [COLOR green]///// NEWS \\\\\\[/COLOR]  
+.
+
+
+
+#EXTINF:0, RT
+https://secure-streams.akamaized.net/rt/index.m3u8
+
+#EXTINF:0,ALJAZEERA
+http://aljazeera-eng-hd-live.hls.adaptive.level3.net/aljazeera/english2/index.m3u8
+
+
+#EXTINF:0,ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:0,FRANCE 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_ios.m3u8
+#EXTINF:-1, SKY NEWS
+http://37.187.167.240:8080/skynews/index.m3u8?token=a999b25d398306a28f08b0522555fbcf&u=1547&p=89154
+
+#EXTINF:-1, BBC NEWS
+http://37.187.167.240:8080/bbcnwews/index.m3u8?token=4a5a120edde05a4a405d2c46fbe7d6d7&u=1547&p=89154
+
+#EXTINF:0,BBC NEWS
+http://vs-hls-uk-live.akamaized.net/pool_34/live/bbc_news_channel_hd/bbc_news_channel_hd.isml/bbc_news_channel_hd-pa4=128000-video=5070016.m3u8
+
+#EXTINF:-1,RTE News Now Ireland 
+http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8
+
+#EXTINF:0, RT DOCUMENTARY
+http://rt.ashttp6.visionip.tv/live/RT_Doc-SDh/playlist.m3u8
+
+
+#EXTINF:0, DW
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+
+#EXTINF:0, ABC NEWS 24
+rtmp://cp103653.live.edgefcs.net:1935/live?_fcs_vhost=cp103653.live.edgefcs.net&akmfv=1.8 playpath=international_medium@36382 swfVfy=true live=true
+
+#EXTINF:0, NHK
+http://nhkwglobal-i.akamaihd.net/hls/live/222714/nhkwglobal/index_900.m3u8
+#EXTINF:0, BLOOMBERG
+http://cdn3.videos.bloomberg.com/btv/us/master.m3u8?
+#EXTINF:0, FOX NEWS
+http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0, PRESS TV
+http://178.32.255.199:1935/live/ptven/playlist.m3u8
+
+#EXTINF:0,NEWS MAX
+http://newsmax-i.akamaihd.net/hls/live/271424/Live_1/index_360.m3u8
+
+#EXTINF:0,BBC Parliament
+http://vs-hls-uk-live.akamaized.net/pool_1/live/bbc_parliament/bbc_parliament.isml/bbc_parliament-pa3=96000-video=1604032.norewind.m3u8
+#EXTINF:0, PRESS TV
+http://presstv-ch03.akamai.hls.live.cdn.overon.es/livehigh/playlist.m3u8
+
+
+#EXTINF:0, EURO NEWS
+rtsp://ewns-hls-b-stream.hexaglobe.net/rtpeuronewslive/en_vidan750_rtp.sdp
+
+#EXTINF:0, 7 NEWS
+rtmp://whdh.mpl.miisolutions.net:1935/whdh-live01 playpath=mp4:whdh_1 swfUrl=http://www.whdh.com/ pageUrl=http://players.edgesuite.net/flash/plugins/osmf/advanced-streaming-plugin/v2.11/osmf1.5/fp10.1/AkamaiAdvancedStreamingPlugin.swf live=1 timeout=15
+
+
+
+
+#EXTINF:-1,WGN 9
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+
+#EXTINF:-1,News 12 NJ
+rtmp://fs-b4e3010000000000.id.cdn.cv.net/vxedge/fs-b9e3010000000000 playpath=fs-b9e3010000000000 swfUrl=http://www.news12.com/player/flowplayer.commercial-3.2.7.swf app=vxedge/fs-b9e3010000000000 pageURL=http://www.news12.com/player/flowplayer/live_player.html?region=NJ live=true swfVfy=true timeout=10
+
+
+#EXTINF:-1 group-title="AFRICA FRENCH", [COLOR red]///// AFRICA FRENCH \\\\\\[/COLOR]  
+.
+
+
+#EXTINF:0, RTI 1 IVORY COAST
+http://185.59.221.143:1935/rticdn/smil:rti1.smil/playlist.m3u8
+
+#EXTINF:0, RTI 2 IVORY COAST
+http://stream-04.dc3.dailymotion.com/37/dm/3/x6dvxnc/live-0.m3u8
+
+
+#EXTINF:0, TEMPO AFRIC
+http://tempoafric1.tulix.tv/output2/output2.stream/playlist.m3u8
+#EXTINF:0,BBLACK  TV
+http://ec.playmedia.fr/beblack/africa/playlist.m3u8
+#EXTINF:0,BBLACK  CARIBBEAN TV
+http://ec.playmedia.fr/beblack/caribbean/playlist.m3u8
+#EXTINF:0,BBLACK  CLASSIK TV
+http://ec.playmedia.fr/beblack/classik/playlist.m3u8
+
+#EXTINF:0,MY COMEDY TV
+http://live.creacast.com/mycomedy/smil:mycomedy.smil/playlist.m3u8
+#EXTINF:0, SOURCES TV AFRICA
+http://stream-13.dc3.dailymotion.com/37/dm/3/x6foqv2/live-0.m3u8
+#EXTINF:0,TELESUD
+http://stream-01.ix7.dailymotion.com/28/dm/3/x52et3w/live-0.m3u8
+
+#EXTINF:0, D5TV
+http://live.creacast.com/d5tv/smil:d5tv.smil/playlist.m3u8
+
+#EXTINF:-1, WEST AFRICA TV
+rtmp://live.westafrica.tv/live/ playpath=westafricatv swfUrl=http://www.centraltv.fr/jwplayer/jwplayer.flash.swf pageUrl=http://www.centraltv.fr/guinee-television/west-africa-tv live=1 timeout=15
+
+#EXTINF:-1,DBM
+rtmp://teststream.vedge.infomaniak.com/livecast playpath=teststream swfUrl=https://static.infomaniak.ch/livetv/playerMain-v4.2.81.swf?sVersion=4%2E2%2E81&bLd=0&p=https&sTitle=&sDescription= pageUrl=https://livevideo.infomaniak.com/iframe.php?stream=teststream&name=testlive&player=3876 live=1 timeout=15
+
+#EXTINF:-1, ORTM MALI
+http://xmaliactux.api.channel.livestream.com/3.0/playlist.m3u8?myskyplayer.m3u8
+
+
+
+#EXTINF:-1, CNEWS
+http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/itele-clair-hd-video=1500000-audio_AACL_fra_96000_127=96000.m3u8?token=4ec4f1caf7a6681e16104bc4873db4bf
+
+#EXTINF:-1,FRANCE 24
+http://197.159.196.14:8001/play/s65
+#EXTINF:0, D24
+rtmp://diaspora24.tv:1935/diaspora24tv playpath=diaspora24 swfUrl=http://www.centraltv.fr/jwplayer/jwplayer.flash.swf pageUrl=http://www.centraltv.fr/senegal-television/diaspora-24-tv
+
+
+#EXTINF:0,Afrique Media Tv
+http://strhls.streamakaci.tv/str_afm_afm/str_afm_multi/playlist.m3u8?
+
+
+#EXTINF:0, TVT TOGO
+rtmps://5750a06754d01.streamlock.net/live playpath=TVT2.mp4 swfUrl=http://roku.muntumedia.s3.amazonaws.com/player.swf live=1 pageUrl=http://muntumedia.com/television/13-africa24-en-direct
+
+#EXTINF:0,DBS TV CAM
+http://hls.ssh101.com/live/dbstv1/index.m3u8
+
+#EXTINF:0, CANAL DE VIE
+rtmp://rtmp.infomaniak.ch/livecast/ playpath=canaldevielivetv-test swfUrl=http://www.livetvswatch.com/scripts/jwplayer/jwplayer.flash.swf pageUrl=http://www.livetvswatch.com/play.php?id=264 live=1 timeout=15
+
+
+#EXTINF:0, CANAL  225
+rtmp://46.105.15.96:1935/live/ Playpath=myStream swfUrl=http://www.livetvswatch.com/scripts/jwplayer/jwplayer.flash.swf pageUrl=http://www.livetvswatch.com/play.php?id=329 live=true timeout=15
+
+
+
+
+#EXTINF:0,France 24
+http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master.m3u8
+#EXTINF:0,I TELE
+http://hls-live-m6-l3.canal-plus.com/live/hls/itele-clair-hd-andr7/and-hd-clair/itele-clair-hd-video=300000-audio_AACL_fra_96000_127=96000.m3u8
+
+#EXTINF:0,Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/9-live.m3u8
+
+
+
+
+
+                                                                                                                                                                                                        

@@ -1,0 +1,1360 @@
+
+
+<item>
+<title>SKY SPORTS MAIN</title>
+<link>http://origin1.ddns.net:8080/skysportsmainevent/index.m3u8?token=551bf5c72849f6280eb4f458c05a4e99&u=1547&p=89154</link>
+</item>
+<item>
+<title>SKY SPORTS MAIN</title>
+<link>http://149.202.199.128:8080/skysportsmanevent/index.m3u8?token=e5d5078384632345666b2357b43b6fa2&u=1547&p=89154</link>
+</item>
+<item>
+<title> BEIN SPORTS 11 HD</title>
+<link>http://149.202.199.128:8080/bein11./index.m3u8?token=c2d5fed1661a63e608c336377d26a0ad&u=1547&p=89154</link>
+</item>
+<item>
+<title>SKY SPORTS CRICKET</title>
+<link>http://origin1.ddns.net:8080/skysports2/index.m3u8?token=62a4c6934ea58f502b333aa720320bed&u=1547&p=89154</link>
+</item>
+<item>
+<title> BT SPORTS 1</title>
+<link>http://37.187.167.240:8080/btsport/index.m3u8?token=2714a5fe854bbfe3f3a520de1321699c&u=1547&p=89154</link>
+</item>
+
+<item>
+<title> BT SPORTS 2</title>
+<link>http://origin1.ddns.net:8080/btsport2/index.m3u8?token=f1f63502b6c61f882abdf02763f2d259&u=1547&p=89154</link>
+
+<item>
+<title> BT SPORTS 2</title>
+<link>http://149.202.199.128:8080/btsports2hd/index.m3u8?token=b51bcd548f2badad2f47c7c267a7ba98&u=889&p=987867</link>
+</item>
+
+<item>
+<title> SKY SPORTS NEWS</title>
+<link>http://149.202.199.128:8080/skysportsnews/index.m3u8?token=0f10893751d9341508ec6b89306cee60&u=1547&p=89154</link>
+</item>
+
+<item>
+<title> BEIN SPORTS 7 HD</title>
+<link>http://149.202.199.128:8080/bein7/index.m3u8?token=d8d57865b35a74bd7329a1634807fa70&u=1547&p=89154</link>
+</item>
+<item>
+<title> BEIN SPORTS 8 HD</title>
+<link>http://149.202.199.128:8080/bein8/index.m3u8?token=57b807772902616495273072e78090cd&u=1547&p=89154</link>
+</item>
+<item>
+<title> BEIN SPORTS 9 HD</title>
+<link>http://149.202.199.128:8080/bein9/index.m3u8?token=0039c4310e85260bd92955bf6f6de2d6&u=1547&p=89154</link>
+<item>
+<title> BEIN SPORTS 10 HD</title>
+<link>http://149.202.199.128:8080/bein10/index.m3u8?token=2f2686f1ba976dc68d72ea38b66088ed&u=1547&p=89154</link>
+</item>
+<item>
+<title> BEIN SPORTS 11  HD</title>
+<link>http://149.202.199.128:8080/bein11./index.m3u8?token=c2d5fed1661a63e608c336377d26a0ad&u=1547&p=89154</link>
+</item>
+<item>
+<title> BEIN SPORTS 12 HD</title>
+<link>http://149.202.199.128:8080/bein12/index.m3u8?token=dac54156496bed4a7d4775d9143f1235&u=1547&p=89154</link>
+</item>
+<item>
+<title> BEIN SPORTS 13 HD</title>
+<link>http://149.202.199.128:8080/bein13/index.m3u8?token=e8c3701b78812f57a5fc6886ba5eae1a&u=1547&p=89154</link>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]LIVE CRICKET</title>
+<sportsdevil>http://www.liveonlinetv247.info/livecricket.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/livecricket.php</referer>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/livecricket.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]LIVE FOOTBALL</title>
+<sportsdevil>http://www.liveonlinetv247.info/livefootball.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/livefootball.php</referer>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/LIVEFOOTY.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]BARCLAYS PREMIERE LEAGUE</title>
+<sportsdevil>http://www.liveonlinetv247.info/barclayspremierleague.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/barclayspremierleague.php</referer>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/premierleaguek.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]CHAMPIONS LEAGUE</title>
+<sportsdevil>http://www.liveonlinetv247.info/uefachampionsleague.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/uefachampionsleague.php</referer>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/uefa-champs-png-link.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]IPL 2017</title>
+<sportsdevil>http://www.liveonlinetv247.info/ipl.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/ipl.php</referer>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/IPL.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]AT THE RACES</title>
+<sportsdevil>http://www.liveonlinetv247.info/attheraces.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/attheraces.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/attheraces.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]BOX NATION</title>
+<sportsdevil>http://www.liveonlinetv247.info/boxnation.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/boxnation.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/box%20nation%20logo.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]CANAL SPORT PLUS</title>
+<sportsdevil>http://www.sdwnet.me/channels/Canal%252b-Sport.html</sportsdevil>
+<referer>http://www.sdwnet.me/channels/Canal%252b-Sport.html</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/canalplus_sport_logo.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]CANAL SPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip-tv24.ddns.net:2008/live/ZEjIHyho4N/t7JshT4uVP/6524.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/canalplus_sport_logo.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]DIGI SPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13426.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/Digi%20Sport%20logo%202012.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]DIGI SPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13425.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/Digi%20Sport%20logo%202012.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]DIGI SPORT 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13424.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/Digi%20Sport%20logo%202012.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]DIGI SPORT 4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13423.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/Digi%20Sport%20logo%202012.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]DOLCE SPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13420.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/DOLCE.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]DOLCE SPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13419.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/DOLCE.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]DOLCE SPORT 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13418.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/DOLCE.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]DOLCE SPORT 4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/13417.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/DOLCE.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]EIR SPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/17372.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/eirsport.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]EIR SPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/17373.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/eirsport.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]ELEVEN SPORT HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/1312.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/eleven.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]ELEVEN SPORT</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://185.2.83.209:8000/live/123456/123456/1307.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/eleven.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]US: ESPN 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-167-236.rev.poneytelecom.eu:8010/live/smart1M171/dhjJE8RMPU/2804.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/ESPN.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]US: ESPN 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://62-210-167-236.rev.poneytelecom.eu:8010/live/smart1M171/dhjJE8RMPU/2744.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/ESPN.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]EUROSPORT 1</title>
+<sportsdevil>http://www.sdwnet.me/channels/British-Eurosport-1.html</sportsdevil>
+<referer>http://www.sdwnet.me/channels/British-Eurosport-1.html</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/british_eurosport.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]EUROSPORT 2</title>
+<sportsdevil>http://www.liveonlinetv247.info/eurosport2.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/eurosport2.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/british_eurosport_2.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]FIGHT NETWORK</title>
+<sportsdevil>http://www.shadow-net.org/channels/Fight-Network.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/Fight-Network.html</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/FIGHTNETWORK.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]NL: FOX SPORT 1</title>
+<sportsdevil>http://www.liveonlinetv247.info/foxsports1.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/foxsports1.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/FOX%20Sports.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]NL: FOX SPORT 2</title>
+<sportsdevil>http://www.liveonlinetv247.info/foxsports2.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/foxsports2.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/FOX%20Sports.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]US: FOX SPORT 1</title>
+<sportsdevil>http://www.liveonlinetv247.info/foxsports1.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/foxsports1.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/FOX%20Sports.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]US: FOX SPORT 2</title>
+<sportsdevil>http://www.liveonlinetv247.info/foxsports2.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/foxsports2.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/FOX%20Sports.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]GOLF CHANNEL</title>
+<sportsdevil>http://www.liveonlinetv247.info/golfchannel.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/golfchannel.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/Golf_Channel.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]MATCH! ARENA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/14279.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/MAT4.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]MATCH! PLANETA</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/14277.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/MAT4.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]MATCH! FUTBOL 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15086.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/MAT4.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]MATCH! FUTBOL 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15087.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/MAT4.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]MATCH! FUTBOL 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15088.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/MAT4.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]MLB TV</title>
+<sportsdevil>http://nowwatchtvlive.cc/watch-mlb-network-live-stream-mlb-network-24-hour-stream/</sportsdevil>
+<referer>http://nowwatchtvlive.cc/watch-mlb-network-live-stream-mlb-network-24-hour-stream/</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/SX0ob9LY.jpeg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]MOTO GP</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/MOTOGP.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]MOTORS TV</title>
+<sportsdevil>http://www.liveonlinetv247.info/motorstv.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/motorstv.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/MOTORSTV.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]NBA TV</title>
+<sportsdevil>http://www.liveonlinetv247.info/nbatv.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/nbatv.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/NBA_TV.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]NBCSN</title>
+<sportsdevil>http://www.liveonlinetv247.info/nbcsn.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/nbcsn.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/NBCSN-Logo.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]NFL TV</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://vip-tv24.ddns.net:2008/live/ZEjIHyho4N/t7JshT4uVP/2235.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/NFL%2bNetwork.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]NHL NETWORK</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/12479.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/NHL.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]ORF SPORT PLUS</title>
+<sportsdevil>http://www.shadow-net.org/channels/ORF-Sport-Plus.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/ORF-Sport-Plus.html</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/orf-sport-plus-logo.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]OSN SPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/14113.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/OSN.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]OSN SPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/14114.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/OSN.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]OSN SPORT 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/14115.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/OSN.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]IT:PREMIUM SPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdn.bid:8080/live/n0rXeOul27/XyIg7tthor/292.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/PREMIUM.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]IT:PREMIUM SPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://livecdn.bid:8080/live/n0rXeOul27/XyIg7tthor/43.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/PREMIUM.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]PDC DARTS</title>
+<sportsdevil>http://live2all.me/darts/2156178/pdc-melbourne-masters-live/</sportsdevil>
+<referer></referer>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/PDC.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]PREMIERE SPORT</title>
+<sportsdevil>http://www.liveonlinetv247.info/premiersports.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/premiersports.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/premier-sports-logo-full-res-master.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]PTV SPORTS</title>
+<sportsdevil>http://www.shadow-net.org/channels/PTV-Sports.html</sportsdevil>
+<referer>http://www.shadow-net.org/channels/PTV-Sports.html</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/PTV-Sports-Channel-logo.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]RACING UK</title>
+<sportsdevil>http://www.liveonlinetv247.info/racinguk.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/racinguk.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/racing%20uk%20logo.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SETANTA SPORTS IRELAND</title>
+<sportsdevil>http://livetv.sc/update/premier-sports.php</sportsdevil>
+<referer>http://livetv.sc/update/premier-sports.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/setanta-sports-logo.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKY BUNDESLIGA 1</title>
+<sportsdevil>http://www.liveonlinetv247.info/skysportbundesliga1.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/skysportbundesliga1.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/sky-bundesliga.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKY BUNDESLIGA 2</title>
+<sportsdevil>http://www.liveonlinetv247.info/skysportbundesliga2.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/skysportbundesliga2.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/sky-bundesliga.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKY CALCIO 1</title>
+<sportsdevil>http://www.sdwnet.me/channels/Sky-Calcio.html</sportsdevil>
+<referer>http://www.sdwnet.me/channels/Sky-Calcio.html</referer>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/CALCIO.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKY CALCIO 2</title>
+<sportsdevil>http://www.sdwnet.me/channels/Sky-Calcio.html</sportsdevil>
+<referer>http://www.sdwnet.me/channels/Sky-Calcio.html</referer>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/CALCIO.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKY CALCIO 3</title>
+<sportsdevil>http://www.sdwnet.me/channels/Sky-Calcio.html</sportsdevil>
+<referer>http://www.sdwnet.me/channels/Sky-Calcio.html</referer>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/CALCIO.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKY CALCIO 4</title>
+<sportsdevil>http://www.sdwnet.me/channels/Sky-Calcio.html</sportsdevil>
+<referer>http://www.sdwnet.me/channels/Sky-Calcio.html</referer>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/CALCIO.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKY SUPER CALCIO</title>
+<sportsdevil>http://www.sdwnet.me/channels/Sky-Calcio.html</sportsdevil>
+<referer>http://www.sdwnet.me/channels/Sky-Calcio.html</referer>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/CALCIO.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKYNET SPORT 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/14081.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/net.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKYNET SPORT 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/14082.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/net.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKYNET SPORT 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/14083.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/net.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKYNET SPORT 4</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/14084.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/net.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKYNET SPORT 5</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/14085.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/net.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKYNET SPORT 6</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15557.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/net.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SKYNET SPORT HD</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/15558.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/icons/net.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORT KLUB 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/10320.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/sport%20klub.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORT KLUB 2</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/10321.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/sport%20klub.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORT KLUB 3</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://sporti.tv:6500/live/VZEWg7Z67m/KbUEmPu1sO/10322.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/sport%20klub.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORTSNET ONE</title>
+<sportsdevil>http://www.liveonlinetv247.info/sportsnetone.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/sportsnetone.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/sportsnet-590-logo-600x600.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORTSNET ONTARIO</title>
+<sportsdevil>http://www.liveonlinetv247.info/sportsnetontario.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/sportsnetontario.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/sportsnet-590-logo-600x600.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORTSNET WORLD</title>
+<sportsdevil>http://www.liveonlinetv247.info/sportsnetworld.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/sportsnetworld.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/sportsnet-590-logo-600x600.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORT TV 1</title>
+<sportsdevil>http://nowwatchtvlive.cc/sport-tv1-em-direto-gratis-sport-tv2-portugal-live-stream-online/</sportsdevil>
+<referer></referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/sporttv.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORT TV 2</title>
+<sportsdevil>http://nowwatchtvlive.cc/sport-tv2-em-direto-gratis-sport-tv2-portugal-live-stream-online/</sportsdevil>
+<referer></referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/sporttv.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORT TV 3</title>
+<sportsdevil>http://nowwatchtvlive.cc/sport-tv3-em-direto-gratis-sport-tv2-portugal-live-stream-online/</sportsdevil>
+<referer></referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/sporttv.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SPORT TV 4</title>
+<sportsdevil>http://nowwatchtvlive.cc/sport-tv4-em-direto-gratis-sport-tv2-portugal-live-stream-online/</sportsdevil>
+<referer></referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/sporttv.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]STAR SPORTS 1</title>
+<sportsdevil>http://embedstream.com/live-cricket-stream-starsports.php</sportsdevil>
+<referer>http://embedstream.com/live-cricket-stream-starsports.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/STAR_Sports_Logo_New.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]STAR SPORTS CRICKET</title>
+<sportsdevil>http://embedstream.com/live-cricket-stream-starsports2.php</sportsdevil>
+<referer>http://embedstream.com/live-cricket-stream-starsports2.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/STAR_Sports_Logo_New.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SUPERSPORT 1</title>
+<sportsdevil>http://embedstream.com/sports-super-sport-1hd-alternate.php</sportsdevil>
+<referer>http://embedstream.com/sports-super-sport-1hd-alternate.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/SuperSport%20logo%202010%20on%20screen%20001.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SUPERSPORT 2</title>
+<sportsdevil>http://embedstream.com/sports-super-sport-2hd-alternate.php</sportsdevil>
+<referer>http://embedstream.com/sports-super-sport-2hd-alternate.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/SuperSport%20logo%202010%20on%20screen%20001.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]SUPERSPORT 3</title>
+<sportsdevil>http://embedstream.com/sports-super-sport-3hd-alternate.php</sportsdevil>
+<referer>http://embedstream.com/sports-super-sport-3hd-alternate.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/SuperSport%20logo%202010%20on%20screen%20001.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]TEN SPORT 1</title>
+<link>http://185.142.239.164:3135/Ten/1/index.m3u8</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/ten-sports.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]TEN SPORT 2</title>
+<link>http://185.142.239.164:3135/Ten/2/index.m3u8</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/ten-sports.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]TEN SPORT 3</title>
+<link>http://185.142.239.164:3135/Ten/3/index.m3u8</link>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/ten-sports.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]TSN 1</title>
+<sportsdevil>http://www.liveonlinetv247.info/tsn.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/tsn.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/TSN_logo-696x522.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]TSN 2</title>
+<sportsdevil>http://www.sdwnet.me/channels/TSN-2.html</sportsdevil>
+<referer>http://www.sdwnet.me/channels/TSN-2.html</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/TSN_logo-696x522.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]TSN 3</title>
+<sportsdevil>http://www.sdwnet.me/channels/TSN-3.html</sportsdevil>
+<referer>http://www.sdwnet.me/channels/TSN-3.html</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/TSN_logo-696x522.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]TSN 4</title>
+<sportsdevil>http://www.sdwnet.me/channels/TSN-4.html</sportsdevil>
+<referer>http://www.sdwnet.me/channels/TSN-4.html</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/TSN_logo-696x522.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]TSN 5</title>
+<sportsdevil>http://v2.ustreamix.com/stream.php?id=tsn5</sportsdevil>
+<referer>http://v2.ustreamix.com/stream.php?id=tsn5</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/TSN_logo-696x522.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]WILLIAM HILL TV</title>
+<link>rtsp://whill.tscplayer.net:554/bettingshop/stream500</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/willhill.jpg</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgreen]ONLINE:[/COLOR]WWE</title>
+<sportsdevil>http://www.liveonlinetv247.info/wwenetwork.php</sportsdevil>
+<referer>http://www.liveonlinetv247.info/wwenetwork.php</referer>
+<thumbnail>http://sport-xplosion.com/LILYSPORTStxts/pngs/WWE-Network-Logo.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/SportsChannels/backgrounds/worldsport.jpg</fanart>
+</item>
+
+<item>
+<title>[COLORgold]ONLINE:[/COLOR]TEST AREA 1</title>
+<link>plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://ecdn.dynsite.tm/802AAD2/158171rse/RJ_IN_R_TSN3/tracks-v1a1/2017/08/14/10/52/48-05005.ts?segments_1781.ts&amp;streamtype=TSDOWNLOADER;name=DELIVERANCE SPORT</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/Deliverance.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/Deliverance.png</fanart>
+</item>
+
+<item>
+<title>[COLORgold]ONLINE:[/COLOR]TEST AREA 2</title>
+<sportsdevil>http://ripple.is/football/619-chelsea-vs-everton</sportsdevil>
+<referer></referer>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/Deliverance.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/Deliverance.png</fanart>
+</item>
+
+<item>
+<title>[COLORgold]ONLINE:[/COLOR]TEST AREA 3</title>
+<link>https://s13.escdn.co/hls/,jg6ntia4lftu7m7cy2vfm3kltfkkp7o3gsyimwakvc2u5glquts563ssvz5a,.urlset/master.m3u8</link>
+<thumbnail>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/Deliverance.png</thumbnail>
+<fanart>http://sport-xplosion.com/DELIVERANCE%20TXT%20FILES/Deliverance.png</fanart>
+</item>
+
+
+
+
+
+
+<item>
+<title>===[COLOR gold] UPDATED: 13/02/17 [/COLOR]===</title>
+<link>.</link>
+<thumbnail>https://s12.postimg.org/45apo1ba5/247sports.jpg</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 1</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/356.ts|User-Agent=dell</f4m>
+<thumbnail>https://s32.postimg.org/xnn7zy7wl/oie_1816643_VGDLDCQy.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 2</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/355.ts|User-Agent=dell</f4m>
+<thumbnail>https://s32.postimg.org/xnn7zy7wl/oie_1816643_VGDLDCQy.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 3</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/354.ts|User-Agent=dell</f4m>
+<thumbnail>https://s32.postimg.org/xnn7zy7wl/oie_1816643_VGDLDCQy.png</thumbnail>
+</item>
+
+<item>
+<title>ASTRO SUPERSPORT 4</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/353.ts|User-Agent=dell</f4m>
+<thumbnail>https://s32.postimg.org/xnn7zy7wl/oie_1816643_VGDLDCQy.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 1 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports1</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>https://s28.postimg.org/rwd30p20d/bein17.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 2 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports2</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>https://s28.postimg.org/rwd30p20d/bein17.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS PREMIER</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://http://www.liveonlinetv247.info/skysportspremierleague.php</page>
+<referer>http://www.liveonlinetv247.info/</referer>
+</regex>
+<thumbnail></thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 4 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports4/page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>https://s28.postimg.org/rwd30p20d/bein17.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 5 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports5</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>https://s28.postimg.org/rwd30p20d/bein17.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 6 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports6</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>https://s28.postimg.org/rwd30p20d/bein17.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 7 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports7</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>https://s28.postimg.org/rwd30p20d/bein17.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 8 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports8</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>https://s28.postimg.org/rwd30p20d/bein17.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 9 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports9</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>https://s28.postimg.org/rwd30p20d/bein17.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 10 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports10</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>https://s28.postimg.org/rwd30p20d/bein17.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 11 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports11</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>https://s28.postimg.org/rwd30p20d/bein17.png</thumbnail>
+</item>
+
+<item>
+<title>BEIN SPORTS 12 AR</title>
+<link>$doregex[m3u8]|User-Agent=iPad</link>
+<regex>
+<name>m3u8</name>
+<expres>playStream\(\'hls','(.*?)'</expres>
+<page>http://embratoria.com/player/is.php?s=beinsports12</page>
+<referer>http://embratoria.com/</referer>
+</regex>
+<thumbnail>https://s28.postimg.org/rwd30p20d/bein17.png</thumbnail>
+</item>
+
+<item>
+<title>BOX NATION UK</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/268.ts|User-Agent=dell</f4m>
+<thumbnail>https://pbs.twimg.com/profile_images/523395738181439488/ZSdNbxJ3_400x400.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 1</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/267.ts|User-Agent=dell</f4m>
+<thumbnail>https://s31.postimg.org/gpye0xht7/BT1.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 2</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/266.ts|User-Agent=dell</f4m>
+<thumbnail>https://s31.postimg.org/gpye0xht7/BT1.png</thumbnail>
+</item>
+
+<item>
+<title>BT SPORT 3</title>
+<f4m>http://163.172.81.33:1234/live/freefootballtv/4GWf*pfCBHWsRgqhwd0Wv5Mx/269.ts|User-Agent=dell</f4m>
+<thumbnail>https://s31.postimg.org/gpye0xht7/BT1.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORT 1 TH</title>
+<link>http://meow.doball.tv:8081/live/fox_sports_1/playlist.m3u8$doregex[getFile]</link>
+<regex>
+<name>getFile</name>
+<expres>var sign = '([^']+)'</expres>
+<page>https://doball.tv/iptv/ball.php?ch=fox_sports_1</page>
+</regex>
+<thumbnail>http://s21.postimg.org/ddkoi2tuv/fox_sportstv.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORT 2 TH</title>
+<link>$doregex[getFile]</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=fox2</page>
+</regex>
+<thumbnail>http://s21.postimg.org/ddkoi2tuv/fox_sportstv.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORT 3 TH</title>
+<link>$doregex[getFile]</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=fox3</page>
+</regex>
+<thumbnail>http://s21.postimg.org/ddkoi2tuv/fox_sportstv.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 1 ASIA</title>
+<f4m>http://51.254.197.61:4545/live/mike/mike/1038.ts|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</f4m>
+<thumbnail>http://s21.postimg.org/ddkoi2tuv/fox_sportstv.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 2 ASIA</title>
+<f4m>http://51.254.197.61:4545/live/mike/mike/1039.ts|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</f4m>
+<thumbnail>http://s21.postimg.org/ddkoi2tuv/fox_sportstv.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 3 ASIA</title>
+<f4m>http://51.254.197.61:4545/live/mike/mike/1040.ts|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</f4m>
+<thumbnail>http://s21.postimg.org/ddkoi2tuv/fox_sportstv.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 1 USA</title>
+<f4m>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/50.mpegts|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</f4m>
+<thumbnail>https://s31.postimg.org/k3e0f31jf/fs1.png</thumbnail>
+</item>
+
+<item>
+<title>FOX SPORTS 2 USA</title>
+<f4m>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/501.mpegts|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</f4m>
+<thumbnail>https://s32.postimg.org/q3s5nsfph/fs2.png</thumbnail>
+</item>
+
+<item>
+<title>MATCH FOOTBALL 1</title>
+<link>http://80.77.52.6:8181/udp/230.0.11.1:12345|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</link>
+<thumbnail>https://s29.postimg.org/xy19uaopj/0127.jpg</thumbnail>
+</item>
+
+<item>
+<title>MATCH FOOTBALL 2</title>
+<link>http://83.174.198.141/Futbol2HD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</link>
+<thumbnail>https://s29.postimg.org/xy19uaopj/0127.jpg</thumbnail>
+</item>
+
+<item>
+<title>MATCH FOOTBALL 3</title>
+<link>http://83.174.198.141/Futbol3HD.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</link>
+<thumbnail>https://s29.postimg.org/xy19uaopj/0127.jpg</thumbnail>
+</item>
+
+<item>
+<title>NBC GOLF USA</title>
+<link>http://tvegolf-i.Akamaihd.net/hls/live/218225/golfx/4296k/prog.m3u8|X-Forwarded-For=209.239.112.104</link>
+<thumbnail>https://pbs.twimg.com/profile_images/463161936314507266/iVZpHSne.jpeg</thumbnail>
+</item>
+
+<item>
+<title>NBCSN</title>
+<f4m>http://free-premium-iptv.ddns.net:9090/load/wk2bl7jh3cdk/48.mpegts|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</f4m>
+<thumbnail>https://nbcsportsgrouppressbox.files.wordpress.com/2012/06/nbcsport-network11.jpg</thumbnail>
+</item>
+
+<item>
+<title>SETANTA SPORTS EURASIA</title>
+<link>http://178.124.183.11/hls/CH_SETANTASPORT/variant.m3u8?version=3</link>
+<thumbnail>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/Icons/Setanta-Sports-Eurasia.png</thumbnail>
+</item>
+
+<item>
+<title>SETANTA SPORTS PLUS</title>
+<link>http://178.124.183.11/hls/CH_SETANTASPORTPLUS/variant.m3u8?version=3</link>
+<thumbnail>https://raw.githubusercontent.com/ProjectAdrian/Adrian_Sports/master/Icons/Setanta-Sports-Eurasia.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 1</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/254.ts|User-Agent=dell</f4m>
+<thumbnail>https://s32.postimg.org/m2iqif9ol/SKYSPORTSUK.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 2</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/259.ts|User-Agent=dell</f4m>
+<thumbnail>https://s32.postimg.org/m2iqif9ol/SKYSPORTSUK.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 3</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/258.ts|User-Agent=dell</f4m>
+<thumbnail>https://s32.postimg.org/m2iqif9ol/SKYSPORTSUK.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 4</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/257.ts|User-Agent=dell</f4m>
+<thumbnail>https://s32.postimg.org/m2iqif9ol/SKYSPORTSUK.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS 5</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/256.ts|User-Agent=dell</f4m>
+<thumbnail>https://s32.postimg.org/m2iqif9ol/SKYSPORTSUK.png</thumbnail>
+</item>
+
+<item>
+<title>SKY SPORTS F1</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/254.ts|User-Agent=dell</f4m>
+<thumbnail>https://s32.postimg.org/m2iqif9ol/SKYSPORTSUK.png</thumbnail>
+</item>
+
+<item>
+<title>SKYNET SPORTS HD</title>
+<link>$doregex[getFile]</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=skynethd</page>
+</regex>
+<thumbnail>https://s32.postimg.org/fov9nmb91/SKYNETSPORTS.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKYNET SPORTS 1</title>
+<link>$doregex[getFile]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=skynet1</page>
+</regex>
+<thumbnail>https://s32.postimg.org/fov9nmb91/SKYNETSPORTS.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKYNET SPORTS 2</title>
+<link>$doregex[getFile]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=skynet2</page>
+</regex>
+<thumbnail>https://s32.postimg.org/fov9nmb91/SKYNETSPORTS.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKYNET SPORTS 3</title>
+<link>$doregex[getFile]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=skynet3</page>
+</regex>
+<thumbnail>https://s32.postimg.org/fov9nmb91/SKYNETSPORTS.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKYNET SPORTS 4</title>
+<link>$doregex[getFile]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=skynet4</page>
+</regex>
+<thumbnail>https://s32.postimg.org/fov9nmb91/SKYNETSPORTS.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKYNET SPORTS 5</title>
+<link>$doregex[getFile]|User-Agent=Mozilla/5.0 (Windows NT 10.0; WOW64; rv:47.0) Gecko/20100101 Firefox/47.0 FirePHP/0.7.4</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=skynet5</page>
+</regex>
+<thumbnail>https://s32.postimg.org/fov9nmb91/SKYNETSPORTS.jpg</thumbnail>
+</item>
+
+<item>
+<title>SKYNET SPORTS 6</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/302.ts|User-Agent=dell</f4m>
+<thumbnail>https://s32.postimg.org/fov9nmb91/SKYNETSPORTS.jpg</thumbnail>
+</item>
+
+<item>
+<title>SN 360 - [COLOR red] OFFLINE [/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://eplstreams.club/11y.php?channel=360</link>
+<thumbnail>https://s27.postimg.org/7slp01xeb/snsports.png</thumbnail>
+</item>
+
+<item>
+<title>SN EAST - [COLOR red] OFFLINE [/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://eplstreams.club/11y.php?channel=East</link>
+<thumbnail>https://s27.postimg.org/7slp01xeb/snsports.png</thumbnail>
+</item>
+
+<item>
+<title>SN ONE - [COLOR red] OFFLINE [/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://eplstreams.club/11y.php?channel=One</link>
+<thumbnail>https://s27.postimg.org/7slp01xeb/snsports.png</thumbnail>
+</item>
+
+<item>
+<title>SN ONTARIO - [COLOR red] OFFLINE [/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://eplstreams.club/11y.php?channel=Ontario</link>
+<thumbnail>https://s27.postimg.org/7slp01xeb/snsports.png</thumbnail>
+</item>
+
+<item>
+<title>SN PACIFIC - [COLOR red] OFFLINE [/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://eplstreams.club/11y.php?channel=Pacific</link>
+<thumbnail>https://s27.postimg.org/7slp01xeb/snsports.png</thumbnail>
+</item>
+
+<item>
+<title>SN WEST - [COLOR red] OFFLINE [/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://eplstreams.club/11y.php?channel=West</link>
+<thumbnail>https://s27.postimg.org/7slp01xeb/snsports.png</thumbnail>
+</item>
+
+<item>
+<title>SN WORLD - [COLOR red] OFFLINE [/COLOR]</title>
+<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://eplstreams.club/11y.php?channel=World</link>
+<thumbnail>https://s27.postimg.org/7slp01xeb/snsports.png</thumbnail>
+</item>
+
+<item>
+<title>TRUESPORT HD1</title>
+<link>$doregex[getFile]</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=tsphd1</page>
+</regex>
+<thumbnail>https://s32.postimg.org/u08y35zdh/True_Sport_Thailand.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRUESPORT HD2</title>
+<link>$doregex[getFile]</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=tsphd2</page>
+</regex>
+<thumbnail>https://s32.postimg.org/u08y35zdh/True_Sport_Thailand.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRUESPORT HD3</title>
+<link>$doregex[getFile]</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=tsphd3</page>
+</regex>
+<thumbnail>https://s32.postimg.org/u08y35zdh/True_Sport_Thailand.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRUESPORT HD4</title>
+<link>$doregex[getFile]</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=tsphd4</page>
+</regex>
+<thumbnail>https://s32.postimg.org/u08y35zdh/True_Sport_Thailand.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRUESPORT TENNIS</title>
+<link>$doregex[getFile]</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=truetennis</page>
+</regex>
+<thumbnail>https://s32.postimg.org/u08y35zdh/True_Sport_Thailand.jpg</thumbnail>
+</item>
+
+<item>
+<title>TRUESPORT GOLF</title>
+<link>$doregex[getFile]</link>
+<regex>
+<name>getFile</name>
+<expres>file: '([^']+)'</expres>
+<page>http://dodetv.com/live/live.php?ch=truegolf</page>
+</regex>
+<thumbnail>https://s32.postimg.org/u08y35zdh/True_Sport_Thailand.jpg</thumbnail>
+</item>
+
+<item>
+<title>TSN 1</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/313.ts|User-Agent=dell</f4m>
+<thumbnail>https://s31.postimg.org/doy8ywcl7/TSN.jpg</thumbnail>
+</item>
+
+<item>
+<title>TSN 2</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/312.ts|User-Agent=dell</f4m>
+<thumbnail>https://s31.postimg.org/doy8ywcl7/TSN.jpg</thumbnail>
+</item>
+
+<item>
+<title>TSN 3</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/311.ts|User-Agent=dell</f4m>
+<thumbnail>https://s31.postimg.org/doy8ywcl7/TSN.jpg</thumbnail>
+</item>
+
+<item>
+<title>TSN 4</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/310.ts|User-Agent=dell</f4m>
+<thumbnail>https://s31.postimg.org/doy8ywcl7/TSN.jpg</thumbnail>
+</item>
+
+<item>
+<title>TSN 5</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/309.ts|User-Agent=dell</f4m>
+<thumbnail>https://s31.postimg.org/doy8ywcl7/TSN.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV2 SPORT PREMIUM 1</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/301.ts|User-Agent=dell</f4m>
+<thumbnail>https://s24.postimg.org/gv9fqzddh/TV2_Sport_Premium.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV2 SPORT PREMIUM 2</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/300.ts|User-Agent=dell</f4m>
+<thumbnail>https://s24.postimg.org/gv9fqzddh/TV2_Sport_Premium.jpg</thumbnail>
+</item>
+
+<item>
+<title>TV2 SPORT PREMIUM 3</title>
+<f4m>http://163.172.81.33:1234/live/iptvrestream.net8/MxA6SpYeNL/299.ts|User-Agent=dell</f4m>
+<thumbnail>https://s24.postimg.org/gv9fqzddh/TV2_Sport_Premium.jpg</thumbnail>
+</item>
